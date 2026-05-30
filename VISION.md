@@ -7,7 +7,7 @@
 
 ## 1. Declaração de visão
 
-**Uma biblioteca acadêmica pessoal que funciona como um segundo cérebro**: navegável por disciplina, pesquisável por faceta (método, região, autor, status), com metadados completos o suficiente para gerar bibliografias perfeitas sem revisão manual, e documentada o bastante para que eu — daqui a 5 anos — consiga reconstruir o raciocínio por trás de cada coleção.
+**Uma biblioteca de metadados acadêmicos com referências aos PDFs**: navegável por disciplina, pesquisável por faceta (método, região, autor, status), com metadados completos o suficiente para gerar bibliografias perfeitas sem revisão manual, e organizada o bastante para que eu — daqui a 5 anos — consiga localizar qualquer referência e reconstruir o raciocínio por trás de cada coleção.
 
 ---
 
