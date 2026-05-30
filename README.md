@@ -40,6 +40,7 @@ Em **10/05/2026** executamos 8 scripts JS (A–H) que reorganizaram a estrutura:
 | Arquivo | Para quê |
 |---------|----------|
 | `README.md` | Você está aqui. Visão geral + por que. |
+| `VISION.md` | Onde queremos chegar: estado final, metas quantitativas, marcos de sucesso. |
 | `PLAN.md` | Plano vivo: o que falta, em que ordem, por quê. |
 | `NEWS.md` | Log cronológico com timestamp de cada ação executada. |
 | `CONVENTIONS.md` | Padrões: nomenclatura "data-primeiro", vocabulário de tags, regras de classificação. |
