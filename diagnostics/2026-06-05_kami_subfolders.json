@@ -1,0 +1,137 @@
+{
+  "date": "2026-06-05",
+  "subdir_stats": {
+    "_Fix": {
+      "shared_with_root": 3,
+      "exclusive": 430,
+      "shared_size": 2852654,
+      "exclusive_size": 1385871443
+    },
+    "Syllabuses": {
+      "shared_with_root": 2,
+      "exclusive": 54,
+      "shared_size": 4055719,
+      "exclusive_size": 24771641
+    },
+    "_GovDocuments": {
+      "shared_with_root": 0,
+      "exclusive": 11,
+      "shared_size": 0,
+      "exclusive_size": 7627905
+    },
+    "01_Syllabi": {
+      "shared_with_root": 0,
+      "exclusive": 189,
+      "shared_size": 0,
+      "exclusive_size": 512433292
+    },
+    "_Learn-Causal-Mixtape": {
+      "shared_with_root": 0,
+      "exclusive": 16,
+      "shared_size": 0,
+      "exclusive_size": 176760097
+    },
+    "_Mov-Estud": {
+      "shared_with_root": 0,
+      "exclusive": 34,
+      "shared_size": 0,
+      "exclusive_size": 39898963
+    },
+    "00_Meta": {
+      "shared_with_root": 0,
+      "exclusive": 333,
+      "shared_size": 0,
+      "exclusive_size": 799822963
+    },
+    "Personal-Documents": {
+      "shared_with_root": 0,
+      "exclusive": 11,
+      "shared_size": 0,
+      "exclusive_size": 3518630
+    },
+    "CVs": {
+      "shared_with_root": 0,
+      "exclusive": 35,
+      "shared_size": 0,
+      "exclusive_size": 9533793
+    },
+    "02_Documentos_Governamentais": {
+      "shared_with_root": 0,
+      "exclusive": 8,
+      "shared_size": 0,
+      "exclusive_size": 16327175
+    }
+  },
+  "summary": {
+    "_Fix": {
+      "shared_with_root": 3,
+      "exclusive": 430,
+      "shared_size_mb": 2.9,
+      "exclusive_size_mb": 1385.9,
+      "is_likely_mirror": false
+    },
+    "Syllabuses": {
+      "shared_with_root": 2,
+      "exclusive": 54,
+      "shared_size_mb": 4.1,
+      "exclusive_size_mb": 24.8,
+      "is_likely_mirror": false
+    },
+    "_GovDocuments": {
+      "shared_with_root": 0,
+      "exclusive": 11,
+      "shared_size_mb": 0.0,
+      "exclusive_size_mb": 7.6,
+      "is_likely_mirror": false
+    },
+    "01_Syllabi": {
+      "shared_with_root": 0,
+      "exclusive": 189,
+      "shared_size_mb": 0.0,
+      "exclusive_size_mb": 512.4,
+      "is_likely_mirror": false
+    },
+    "_Learn-Causal-Mixtape": {
+      "shared_with_root": 0,
+      "exclusive": 16,
+      "shared_size_mb": 0.0,
+      "exclusive_size_mb": 176.8,
+      "is_likely_mirror": false
+    },
+    "_Mov-Estud": {
+      "shared_with_root": 0,
+      "exclusive": 34,
+      "shared_size_mb": 0.0,
+      "exclusive_size_mb": 39.9,
+      "is_likely_mirror": false
+    },
+    "00_Meta": {
+      "shared_with_root": 0,
+      "exclusive": 333,
+      "shared_size_mb": 0.0,
+      "exclusive_size_mb": 799.8,
+      "is_likely_mirror": false
+    },
+    "Personal-Documents": {
+      "shared_with_root": 0,
+      "exclusive": 11,
+      "shared_size_mb": 0.0,
+      "exclusive_size_mb": 3.5,
+      "is_likely_mirror": false
+    },
+    "CVs": {
+      "shared_with_root": 0,
+      "exclusive": 35,
+      "shared_size_mb": 0.0,
+      "exclusive_size_mb": 9.5,
+      "is_likely_mirror": false
+    },
+    "02_Documentos_Governamentais": {
+      "shared_with_root": 0,
+      "exclusive": 8,
+      "shared_size_mb": 0.0,
+      "exclusive_size_mb": 16.3,
+      "is_likely_mirror": false
+    }
+  }
+}

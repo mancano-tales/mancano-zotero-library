@@ -8,6 +8,7 @@
 |---------|------------------|---------|--------|-------------|
 | `zotero_BEFORE_REORG_2026-05-09.sqlite` | 2026-05-09 20:00 | 23.5 MB | Antes de qualquer mudança nossa | `~/Zotero/_diagnostico/` |
 | `zotero_BEFORE_CLEANUP_2026-05-10_1955.sqlite` | 2026-05-10 19:46 | 24.2 MB | Checkpoint entre Scripts A-H | `~/Zotero/_diagnostico/` |
+| `zotero_snap_2026-05-30.sqlite` | 2026-05-30 10:24 (cópia do .bak) | 24.7 MB | Pré Scripts J/K/L (resolução `Problematic - No author`) | `~/Zotero/_diagnostico/` |
 
 ### Auto-rotacionados pelo Zotero (frequência: a cada N horas)
 

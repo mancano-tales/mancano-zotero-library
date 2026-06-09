@@ -1,0 +1,755 @@
+{
+  "ok_humano": [
+    {
+      "id": 103,
+      "key": "YTD6EEH6",
+      "type": "webpage",
+      "title": "Quase a metade dos brasileiros viu renda familiar diminuir na pandemia, diz Datafolha",
+      "url": "https://www1.folha.uol.com.br/mercado/2020/08/quase-a-metade-dos-brasileiros-viu-renda-familiar-diminuir-na-pandemia-diz-datafolha.shtml",
+      "date": "2020-08-20 2020-08-20 12:53:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Thais",
+          "lastName": "Carrança",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "key": "N3XFFMLW",
+      "type": "webpage",
+      "title": "OMS declara pandemia do novo coronavírus Sars-Cov-2",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2020/03/oms-declara-pandemia-do-novo-coronavirus.shtml",
+      "date": "2020-03-11 2020-03-11 13:36:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Phillippe",
+          "lastName": "Watanabe",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "key": "6P9YH3M8",
+      "type": "webpage",
+      "title": "Ao alcançar os R$ 6 bilhões, doações desaceleram em meio a novas emergências",
+      "url": "https://www1.folha.uol.com.br/empreendedorsocial/2020/07/ao-alcancar-os-r-6-bilhoes-doacoes-desaceleram-em-meio-a-novas-emergencias.shtml",
+      "date": "2020-07-20 2020-07-20 10:30:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Giovanna",
+          "lastName": "Reis",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "key": "H2S6HKF7",
+      "type": "webpage",
+      "title": "USP tem 4 suicídios em 2 meses e cria escritório de saúde mental para alunos",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2018/08/usp-tem-4-suicidios-em-2-meses-e-cria-escritorio-de-saude-mental-para-alunos.shtml",
+      "date": "2018-08-01 2018-08-01 02:00:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Bianka",
+          "lastName": "Vieira",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "key": "A4BHXK2E",
+      "type": "webpage",
+      "title": "Suicídio de três estudantes nos últimos dois meses acende alerta na USP",
+      "url": "https://www1.folha.uol.com.br/educacao/2021/06/suicidio-de-tres-estudantes-nos-ultimos-dois-meses-acende-alerta-na-usp.shtml",
+      "date": "2021-06-03 2021-06-03 12:00:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Isabela",
+          "lastName": "Palhares",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "key": "TESIDAGG",
+      "type": "webpage",
+      "title": "Medicina da USP se mobiliza após tentativas de suicídio - 12/04/2017 - Equilíbrio e Saúde",
+      "url": "http://www1.folha.uol.com.br/equilibrioesaude/2017/04/1874794-medicina-da-usp-se-mobiliza-apos-tentativas-de-suicidio.shtml",
+      "date": "2017-04-12 2017/04/12",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Cláudia",
+          "lastName": "Collucci",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "key": "HHDYIU4V",
+      "type": "newspaperArticle",
+      "title": "Por que assistimos a uma volta do fascismo à brasileira?",
+      "url": "https://www1.folha.uol.com.br/ilustrissima/2020/06/por-que-assistimos-a-uma-volta-do-fascismo-a-brasileira.shtml",
+      "date": "2020-09-06 9.6.2020",
+      "publicationTitle": "Folha de S. Paulo",
+      "creators": [
+        {
+          "firstName": "André",
+          "lastName": "Singer",
+          "fieldMode": 0,
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Christian",
+          "lastName": "Dunker",
+          "fieldMode": 0,
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Cicero",
+          "lastName": "Araújo",
+          "fieldMode": 0,
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Laura",
+          "lastName": "Carvalho",
+          "fieldMode": 0,
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ruy",
+          "lastName": "Braga",
+          "fieldMode": 0,
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Vladimir",
+          "lastName": "Safatle",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "key": "RQGF66LE",
+      "type": "webpage",
+      "title": "A Consulta Popular vai passar",
+      "url": "https://www1.folha.uol.com.br/fsp/opiniao/fz15029905.htm",
+      "date": "1999-02-15 15/02/99",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Fernando",
+          "lastName": "Rodrigues",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "key": "2HD8SURH",
+      "type": "webpage",
+      "title": "Conselho da USP aprova cotas sociais e raciais para vestibular de 2018 - 04/07/2017 - Educação - Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/educacao/2017/07/1898485-conselho-da-usp-aprova-cota-de-50-para-alunos-de-escola-publica-ate-2021.shtml",
+      "date": "2017-07-04 2017.07.4",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Fernanda Pereira",
+          "lastName": "NEVES",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 720,
+      "key": "WJ2NV6PT",
+      "type": "journalArticle",
+      "title": "O homem da planilha: Gilberto Kassab prepara o PSD para os próximos trezentos anos",
+      "url": "https://piaui.folha.uol.com.br/materia/gilberto-kassab-prepara-o-psd-para-os-proximos-trezentos-anos/",
+      "date": "2024-11-00 2024-11",
+      "publicationTitle": "Revista piauí",
+      "creators": [
+        {
+          "firstName": "Luigi",
+          "lastName": "Mazza",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 721,
+      "key": "F7ZPC7N6",
+      "type": "journalArticle",
+      "title": "O colapso",
+      "url": "https://piaui.folha.uol.com.br/materia/o-colapso-2/",
+      "date": "2019-00-00 2019",
+      "publicationTitle": "Revista piauí",
+      "creators": [
+        {
+          "firstName": "Mary Elise",
+          "lastName": "Sarotte",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "key": "5KI88TRV",
+      "type": "journalArticle",
+      "title": "Estranhos no ninho",
+      "url": "https://piaui.folha.uol.com.br/materia/estranhos-no-ninho/",
+      "date": "2018-06-00 2018-06",
+      "publicationTitle": "Revista piauí",
+      "creators": [
+        {
+          "firstName": "Consuelo",
+          "lastName": "Dieguez",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "key": "9HKZCC6U",
+      "type": "journalArticle",
+      "title": "Sem a elite, sem (quase) nada",
+      "url": "https://piaui.folha.uol.com.br/sem-elite-sem-quase-nada/",
+      "date": "2018-00-00 2018",
+      "publicationTitle": "Revista piauí",
+      "creators": [
+        {
+          "firstName": "Luigi",
+          "lastName": "Mazza",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "key": "26QX8JSD",
+      "type": "journalArticle",
+      "title": "Serra na hora da decisão",
+      "url": "https://piaui.folha.uol.com.br/materia/serra-na-hora-da-decisao/",
+      "date": "2009-00-00 2009",
+      "publicationTitle": "Revista piauí",
+      "creators": [
+        {
+          "firstName": "Daniela",
+          "lastName": "Pinheiro",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 725,
+      "key": "2RRYVTXW",
+      "type": "journalArticle",
+      "title": "O paulista Ge-ral-do",
+      "url": "https://piaui.folha.uol.com.br/materia/o-paulista-ge-ral-do/",
+      "date": "2014-00-00 2014",
+      "publicationTitle": "Revista piauí",
+      "creators": [
+        {
+          "firstName": "Julia",
+          "lastName": "Duailibi",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 726,
+      "key": "5CV9P2EI",
+      "type": "journalArticle",
+      "title": "A guerra do Cashmere",
+      "url": "https://piaui.folha.uol.com.br/materia/guerra-do-cashmere/",
+      "date": "2016-00-00 2016",
+      "publicationTitle": "Revista piauí",
+      "creators": [
+        {
+          "firstName": "Julia",
+          "lastName": "Duailibi",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 9275,
+      "key": "V2YYJY25",
+      "type": "webpage",
+      "title": "Projeto da JBS transfere sede para fora do Brasil",
+      "url": "https://www1.folha.uol.com.br/mercado/2019/12/projeto-da-jbs-transfere-sede-para-fora-do-brasil.shtml?origin=folha",
+      "date": "2019-12-06 2019.12.6",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Bruna",
+          "lastName": "Narcizo",
+          "fieldMode": 0,
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alexa",
+          "lastName": "Salomão",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 9283,
+      "key": "KY4QVJYF",
+      "type": "webpage",
+      "title": "História de uma amizade",
+      "url": "https://piaui.folha.uol.com.br/materia/historia-de-uma-amizade/",
+      "date": "2020-01-00 jan 2020",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Malu",
+          "lastName": "Gaspar",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 9289,
+      "key": "9DXIPF9X",
+      "type": "webpage",
+      "title": "Conselheiro da Ambev relata fusão entre Antarctica e Brahma",
+      "url": "https://www1.folha.uol.com.br/mercado/2018/04/conselheiro-da-ambev-relata-fusao-entre-antarctica-e-brahma.shtml",
+      "date": "2018-04-28 2018-04-28 02:00:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "Joana",
+          "lastName": "Cunha",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 9306,
+      "key": "N8ZIAG84",
+      "type": "webpage",
+      "title": "Controle será compartilhado por dez anos",
+      "url": "https://www1.folha.uol.com.br/fsp/dinheiro/fi02079904.htm",
+      "date": "1999-07-02 1999/07/02",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "VANESSA",
+          "lastName": "ADACHI",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 12430,
+      "key": "4U4BD63Q",
+      "type": "journalArticle",
+      "title": "Pacto da mediocridade",
+      "url": "https://www1.folha.uol.com.br/fsp/1995/3/03/opiniao/4.html",
+      "date": "1995-03-03 1995-03-03",
+      "publicationTitle": "Folha de S.Paulo",
+      "creators": [
+        {
+          "firstName": "Gilberto",
+          "lastName": "Dimenstein",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 12434,
+      "key": "37NHSLHZ",
+      "type": "journalArticle",
+      "title": "Estado passa a decidir sobre a criação de curso superior",
+      "url": "http://www1.folha.uol.com.br/fsp/1995/1/07/cotidiano/24.html",
+      "date": "1995-01-07 1995-01-07",
+      "publicationTitle": "Folha de S.Paulo",
+      "creators": [
+        {
+          "firstName": "Alexandre",
+          "lastName": "Secco",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 12438,
+      "key": "8KE8B5DW",
+      "type": "journalArticle",
+      "title": "Criação de curso superior passa a conselho",
+      "url": "http://www1.folha.uol.com.br/fsp/1995/1/07/cotidiano/34.html",
+      "date": "1995-01-07 1995-01-07",
+      "publicationTitle": "Folha de S.Paulo",
+      "creators": [
+        {
+          "firstName": "Alexandre",
+          "lastName": "Secco",
+          "fieldMode": 0,
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Vinicius",
+          "lastName": "Torres",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 12440,
+      "key": "LKMMWCBC",
+      "type": "journalArticle",
+      "title": "Em crise, conselho de educação muda",
+      "url": "http://www1.folha.uol.com.br/fsp/cotidian/ff2602200001.htm",
+      "date": "2000-02-26 2000-02-26",
+      "publicationTitle": "Folha de S.Paulo",
+      "creators": [
+        {
+          "firstName": "Daniela",
+          "lastName": "Falcão",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    }
+  ],
+  "ok_institucional": [
+    {
+      "id": 305,
+      "key": "DRYG7NGS",
+      "type": "webpage",
+      "title": "Projeto da JBS transfere sede para fora do Brasil",
+      "url": "https://www1.folha.uol.com.br/mercado/2019/12/projeto-da-jbs-transfere-sede-para-fora-do-brasil.shtml",
+      "date": "2019-12-06 2019-12-06 15:14:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "key": "KPBY5J37",
+      "type": "webpage",
+      "title": "OMS declara pandemia do novo coronavírus Sars-Cov-2",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2020/03/oms-declara-pandemia-do-novo-coronavirus.shtml",
+      "date": "2020-03-11 2020-03-11 13:36:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 547,
+      "key": "4M8HDRUP",
+      "type": "webpage",
+      "title": "Folha realiza webinário online sobre movimento de solidariedade na pandemia",
+      "url": "https://www1.folha.uol.com.br/empreendedorsocial/2020/07/folha-realiza-webnario-online-sobre-movimento-de-solidariedade-na-pandemia.shtml",
+      "date": "2020-07-01 2020-07-01 16:00:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "key": "ZFK4SRAC",
+      "type": "webpage",
+      "title": "Folha promove debate nesta quarta sobre renda básica",
+      "url": "https://www1.folha.uol.com.br/mercado/2020/07/folha-promove-debate-nesta-quarta-sobre-renda-basica.shtml",
+      "date": "2020-07-22 2020-07-22 06:30:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "key": "WNGJZ6J7",
+      "type": "webpage",
+      "title": "Seminário #ComoPossoAjudar discute as motivações da doação no Brasil",
+      "url": "https://www1.folha.uol.com.br/empreendedorsocial/2020/07/seminario-comopossoajudar-discute-as-motivacoes-da-doacao-no-brasil.shtml",
+      "date": "2020-07-08 2020-07-08 16:30:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "key": "JSGXID2X",
+      "type": "webpage",
+      "title": "Natalie Unterstell e Gustavo Tosello Pinheiro: Retomada da economia pós-coronavírus é oportunidade para descarbonizá-la",
+      "url": "https://www1.folha.uol.com.br/ambiente/2020/06/retomada-da-economia-pos-coronavirus-e-oportunidade-para-descarboniza-la.shtml",
+      "date": "2020-06-04 2020-06-04 23:15:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 566,
+      "key": "9HGE3NLU",
+      "type": "webpage",
+      "title": "Evento milionário de barcos de luxo gera protestos de estudantes na USP",
+      "url": "https://www1.folha.uol.com.br/educacao/2020/11/evento-milionario-de-barcos-de-luxo-gera-protestos-de-estudantes-na-usp.shtml",
+      "date": "2020-11-26 2020-11-26 09:09:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "key": "CN8SJFTP",
+      "type": "webpage",
+      "title": "Maior jornal do Brasil, Folha consolida crescimento digital",
+      "url": "https://www1.folha.uol.com.br/poder/2020/06/maior-jornal-do-brasil-folha-consolida-crescimento-digital.shtml",
+      "date": "2020-06-26 2020-06-26 16:24:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 5085,
+      "key": "FQ6DAPHS",
+      "type": "journalArticle",
+      "title": "Autores apontam caminhos para a política industrial",
+      "url": "https://www1.folha.uol.com.br/folha/publifolha/ult10037u351843.shtml",
+      "date": "2004-07-03 2004-07-03",
+      "publicationTitle": "Folha de S.Paulo",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 9202,
+      "key": "B4FUFYG3",
+      "type": "webpage",
+      "title": "Brahma e Antarctica fazem megafusão -",
+      "url": "https://www1.folha.uol.com.br/fsp/dinheiro/fi02079902.htm",
+      "date": "1999-07-02 07/02/1999",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 9268,
+      "key": "6HRNW58M",
+      "type": "webpage",
+      "title": "'Podemos doar muito mais que dinheiro', afirmam convidados do #ComoPossoAjudar",
+      "url": "https://www1.folha.uol.com.br/empreendedorsocial/2020/07/podemos-doar-muito-mais-que-dinheiro-afirmam-convidados-do-comopossoajudar.shtml",
+      "date": "2020-07-08 2020-07-08 20:00:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 9269,
+      "key": "K7SJNC52",
+      "type": "webpage",
+      "title": "Parceria entre Magalu e grife brasileira garante renda a artesãs durante a crise",
+      "url": "https://www1.folha.uol.com.br/empreendedorsocial/2020/04/parceria-entre-magalu-e-grife-brasileira-garante-renda-a-artesas-nordestinas-durante-a-crise.shtml",
+      "date": "2020-04-23 2020-04-23 18:12:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 9312,
+      "key": "MVEH76ID",
+      "type": "webpage",
+      "title": "150 pessoas trabalharam sem trégua para entregar anexo de hospital em SP",
+      "url": "https://www1.folha.uol.com.br/empreendedorsocial/2020/05/150-pessoas-trabalharam-sem-tregua-para-entregar-anexo-de-hospital-em-sp.shtml",
+      "date": "2020-05-01 2020-05-01 10:00:00",
+      "publicationTitle": "",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Folha de S.Paulo",
+          "fieldMode": 1,
+          "creatorType": "author"
+        }
+      ]
+    }
+  ],
+  "fix_fm0": [
+    {
+      "id": 12442,
+      "key": "6B3HKQUG",
+      "type": "journalArticle",
+      "title": "Outro lado: Atitudes de antropóloga não são coerentes, diz ministro",
+      "url": "http://www1.folha.uol.com.br/fsp/brasil/fc2307200112.htm",
+      "date": "2001-07-23 2001-07-23",
+      "publicationTitle": "Folha de S.Paulo",
+      "creators": [
+        {
+          "firstName": "Folha",
+          "lastName": "de S.Paulo",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    },
+    {
+      "id": 12468,
+      "key": "J6PWEHT6",
+      "type": "journalArticle",
+      "title": "Hinguel extingue conselho de educação",
+      "url": "https://www1.folha.uol.com.br/fsp/1994/10/20/cotidiano/42.html",
+      "date": "1994-10-20 1994-10-20",
+      "publicationTitle": "Folha de S.Paulo",
+      "creators": [
+        {
+          "firstName": "Folha",
+          "lastName": "de S.Paulo",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    }
+  ],
+  "fix_sem_creator": [
+    {
+      "id": 468,
+      "key": "WBSS8FDV",
+      "type": "webpage",
+      "title": "Vai tentar entrar na USP em 2018? Entenda o novo sistema de cotas - 05/07/2017 - Educação",
+      "url": "http://www1.folha.uol.com.br/educacao/2017/07/1898655-vai-disputar-a-fuvest-2018-tire-duvidas-sobre-o-programa-de-cotas.shtml",
+      "date": "",
+      "publicationTitle": "",
+      "creators": []
+    },
+    {
+      "id": 530,
+      "key": "GF49CBHP",
+      "type": "blogPost",
+      "title": "O mitólogo",
+      "url": "https://piaui.folha.uol.com.br/materia/o-mitologo/",
+      "date": "",
+      "publicationTitle": "",
+      "creators": []
+    }
+  ],
+  "fix_sem_url": [
+    {
+      "id": 12432,
+      "key": "2ZDQ7PK2",
+      "type": "journalArticle",
+      "title": "MP 785: o fim do Fies e do sonho da educação superior",
+      "url": "",
+      "date": "2017-11-22 2017-11-22",
+      "publicationTitle": "Folha de S.Paulo",
+      "creators": [
+        {
+          "firstName": "Sólon",
+          "lastName": "Caldas",
+          "fieldMode": 0,
+          "creatorType": "author"
+        }
+      ]
+    }
+  ],
+  "fix_sem_date": []
+}

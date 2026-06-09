@@ -20,6 +20,21 @@
 
 `S` em coursework = `1` (primeiro semestre) ou `2` (segundo). Ex: `2024-1` = 1º semestre de 2024.
 
+## 2.1. Creators institucionais (fieldMode=1)
+
+Para itens com autoria **corporativa/institucional** (jornal sem byline, órgão de governo, canal de YouTube, Wikipedia, ONG), atribuir creator com:
+
+```javascript
+{ name: "<Nome do órgão>", creatorType: "author", fieldMode: 1 }
+```
+
+- `fieldMode: 1` = single-field "name only" (vs. fieldMode 0 = First+Last separados)
+- CSL/APA trata como **corporate author** automaticamente — citação fica `("Folha de S.Paulo", 2020)` em vez de `("S.Paulo", 2020)`.
+- Mapa `domínio → creator` mantido em `python/classify_problematic.py` (dicionário `DOMAIN_CREATOR`). Adicionar domínios novos lá conforme aparecerem em triagens futuras.
+- Exemplos: `Folha de S.Paulo`, `Valor Econômico`, `Senado Federal`, `Brasil. Presidência da República`, `OECD`, `Jornal da USP`, `Wikipédia` (pt-BR) / `Wikipedia` (en), `YouTube`.
+
+**Quando NÃO usar fieldMode=1**: matéria de jornal **com** byline conhecido (ex.: "Fulano, Beltrano. (2020). Título. Folha de S.Paulo.") — aí usa creator humano normal e `publicationTitle = "Folha de S.Paulo"`.
+
 ## 2. Vocabulário de tags
 
 Tags usam **namespace `prefixo:`** pra evitar conflito e habilitar facetamento.

@@ -1,0 +1,2036 @@
+{
+  "date": "2026-06-06",
+  "counts": {
+    "exact": 172,
+    "exact_multi": 1,
+    "normalized": 12,
+    "difflib_88": 17,
+    "no_match": 51
+  },
+  "proposals": [
+    {
+      "itemID": 706,
+      "title": "Good-JournalModernHistory-1986",
+      "zotero_basename": "good-journalmodernhistory-1986.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 710,
+      "title": "Pathways from the Periphery_ The Politics of Growth in the -- Haggard, Stephan; Harvard University_ Center for -- Cornell studies in political -- 9780801424991 -- 13d252fea7016003462129a19c63105c -- Anna’s Ar",
+      "zotero_basename": "pathways from the periphery_ the politics of growth in the -- haggard, stephan; harvard university_ center for -- cornell studies in political -- 9780801424991 -- 13d252fea7016003462129a19c63105c -- anna’s ar.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 785,
+      "title": "edition.cnn.com-Analysis Why Chinas Xi Jinping is not backing down on US-China trade escalation that has no end in si",
+      "zotero_basename": "edition.cnn.com-analysis why chinas xi jinping is not backing down on us-china trade escalation that has no end in si.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 802,
+      "title": "54438133807_25bfb07ed6_o",
+      "zotero_basename": "54438133807_25bfb07ed6_o.jpg",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 810,
+      "title": "Sikkink 1.pdf",
+      "zotero_basename": "sikkink 1.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Sikkink.pdf",
+      "match_rel": "Sikkink.pdf"
+    },
+    {
+      "itemID": 812,
+      "title": "s10734-024-01232-y 1.pdf",
+      "zotero_basename": "s10734-024-01232-y 1.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 901,
+      "title": "breencvoctober2020pdf.pdf",
+      "zotero_basename": "breencvoctober2020pdf.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 1177,
+      "title": "Seeing Like a State How Certain Schemes to Improve the Human Condition Have Failed by James C. Scott (z-lib.org)",
+      "zotero_basename": "seeing like a state how certain schemes to improve the human condition have failed by james c. scott (z-lib.org).epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 1182,
+      "title": "Manifesto for a Dream_ Inequality, Constraint, and Radical -- Jackson, Michelle -- 2020 nov 23 -- Stanford University Press -- 9781503611924 -- 5c3951033e28c174fe9fe3b7d8dee741 -- Anna’s Archive (1) 1.pdf",
+      "zotero_basename": "manifesto for a dream_ inequality, constraint, and radical -- jackson, michelle -- 2020 nov 23 -- stanford university press -- 9781503611924 -- 5c3951033e28c174fe9fe3b7d8dee741 -- anna’s archive (1) 1.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 1203,
+      "title": "Paulo and de - RELATÓRIO FINAL DE INICIAÇÃO CIENTÍFICA.pdf",
+      "zotero_basename": "paulo and de - relatório final de iniciação científica.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Paulo and de - RELATÓRIO FINAL DE INICIAÇÃO CIENTÍFICA.pdf",
+      "match_rel": "00_Meta/Paulo and de - RELATÓRIO FINAL DE INICIAÇÃO CIENTÍFICA.pdf"
+    },
+    {
+      "itemID": 1205,
+      "title": "RibeiroEducational expansion and class mobility trends in Brazil.pdf",
+      "zotero_basename": "ribeiroeducational expansion and class mobility trends in brazil.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Ribeiro - Educational expansion and class mobility trends in Brazil.pdf",
+      "match_rel": "Ribeiro - Educational expansion and class mobility trends in Brazil.pdf"
+    },
+    {
+      "itemID": 1211,
+      "title": "Asplund and Barth - 2005 - Education and wage inequality in Europe a literature review.pdf",
+      "zotero_basename": "asplund and barth - 2005 - education and wage inequality in europe a literature review.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Asplund and Barth - 2005 - Education and wage inequality in Europe a literature review.pdf",
+      "match_rel": "00_Meta/Asplund and Barth - 2005 - Education and wage inequality in Europe a literature review.pdf"
+    },
+    {
+      "itemID": 1229,
+      "title": "PDF",
+      "zotero_basename": "breen and müller2020 - education and intergenerational social mobility in europe and the united states 2.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Breen and Müller - 2020 - Education and intergenerational social mobility in Europe and the United States.pdf",
+      "match_rel": "Breen and Müller - 2020 - Education and intergenerational social mobility in Europe and the United States.pdf"
+    },
+    {
+      "itemID": 1323,
+      "title": "PDF",
+      "zotero_basename": "breen and goldthorpe - 1997 - explaining educational differentials towards a formal rational action theory.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Breen and Goldthorpe - 1997 - Explaining Educational Differentials Towards a Formal Rational Action Theory.pdf",
+      "match_rel": "00_Meta/Breen and Goldthorpe - 1997 - Explaining Educational Differentials Towards a Formal Rational Action Theory.pdf"
+    },
+    {
+      "itemID": 1324,
+      "title": "PDF",
+      "zotero_basename": "breen and goldthorpe1997 - explaining educational differentials towards a formal rational action theory 2.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Breen and Goldthorpe - 1997 - Explaining Educational Differentials Towards a Formal Rational Action Theory.pdf",
+      "match_rel": "00_Meta/Breen and Goldthorpe - 1997 - Explaining Educational Differentials Towards a Formal Rational Action Theory.pdf"
+    },
+    {
+      "itemID": 1349,
+      "title": "PDF",
+      "zotero_basename": "gorton2006 - karl popper and the social sciences.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Gorton2006 - Karl Popper and the social sciences.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Gorton2006 - Karl Popper and the social sciences.pdf"
+    },
+    {
+      "itemID": 1352,
+      "title": "PDF",
+      "zotero_basename": "kuhn and hacking2012 - the structure of scientific revolutions.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Kuhn and Hacking2012 - The structure of scientific revolutions.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Kuhn and Hacking2012 - The structure of scientific revolutions.pdf"
+    },
+    {
+      "itemID": 1353,
+      "title": "Ebook",
+      "zotero_basename": "popper2011 - the logic of scientific discovery.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Popper2011 - The Logic of Scientific Discovery.epub",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Popper2011 - The Logic of Scientific Discovery.epub"
+    },
+    {
+      "itemID": 1354,
+      "title": "Ebook",
+      "zotero_basename": "sim et al.2009 - introducing critical theory a graphic guide.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Sim et al.2009 - Introducing Critical Theory A Graphic Guide.epub",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Sim et al.2009 - Introducing Critical Theory A Graphic Guide.epub"
+    },
+    {
+      "itemID": 1355,
+      "title": "PDF",
+      "zotero_basename": "shapiro1997 - philosophy of mathematics structure and ontology.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Shapiro1997 - Philosophy of mathematics structure and ontology.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Shapiro1997 - Philosophy of mathematics structure and ontology.pdf"
+    },
+    {
+      "itemID": 1356,
+      "title": "PDF",
+      "zotero_basename": "turner and roth2003 - the blackwell guide to the philosophy of the social sciences.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Turner and Roth2003 - The Blackwell guide to the philosophy of the social sciences.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Turner and Roth2003 - The Blackwell guide to the philosophy of the social sciences.pdf"
+    },
+    {
+      "itemID": 1357,
+      "title": "PDF",
+      "zotero_basename": "peres da silva2015 - desafios ontológicos e epistemológicos para os métodos mistos na ciência política.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Peres Da Silva2015 - Desafios ontológicos e epistemológicos para os métodos mistos na ciência política.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Peres Da Silva2015 - Desafios ontológicos e epistemológicos para os métodos mistos na ciência política.pdf"
+    },
+    {
+      "itemID": 1358,
+      "title": "Se Classe é a Resposta qual é a questão",
+      "zotero_basename": "se classe é a resposta qual é a questão.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Se Classe é a Resposta qual é a questão.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Se Classe é a Resposta qual é a questão.pdf"
+    },
+    {
+      "itemID": 1359,
+      "title": "Ebook",
+      "zotero_basename": "okasha2016 - philosophy of science a very short introduction.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Okasha2016 - Philosophy of science a very short introduction.epub",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Okasha2016 - Philosophy of science a very short introduction.epub"
+    },
+    {
+      "itemID": 1360,
+      "title": "PDF",
+      "zotero_basename": "raddonearly stage research training epistemology & ontology in social science research.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\RaddonEarly Stage Research Training Epistemology & Ontology in Social Science Research.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/RaddonEarly Stage Research Training Epistemology & Ontology in Social Science Research.pdf"
+    },
+    {
+      "itemID": 1361,
+      "title": "PDF",
+      "zotero_basename": "baert2005 - philosophy of the social sciences towards pragmatism.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Baert2005 - Philosophy of the social sciences towards pragmatism.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Baert2005 - Philosophy of the social sciences towards pragmatism.pdf"
+    },
+    {
+      "itemID": 1362,
+      "title": "PDF",
+      "zotero_basename": "cartwright and montuschi2014 - philosophy of social science a new introduction.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Cartwright and Montuschi2014 - Philosophy of social science a new introduction.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Cartwright and Montuschi2014 - Philosophy of social science a new introduction.pdf"
+    },
+    {
+      "itemID": 1363,
+      "title": "PDF",
+      "zotero_basename": "may and williams2002 - an introduction to the philosophy of social research.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\May and Williams2002 - An Introduction To The Philosophy Of Social Research.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/May and Williams2002 - An Introduction To The Philosophy Of Social Research.pdf"
+    },
+    {
+      "itemID": 1364,
+      "title": "PDF",
+      "zotero_basename": "risjord2022 - philosophy of social science a contemporary introduction.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Risjord2022 - Philosophy of Social Science A Contemporary Introduction.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Risjord2022 - Philosophy of Social Science A Contemporary Introduction.pdf"
+    },
+    {
+      "itemID": 1366,
+      "title": "PDF",
+      "zotero_basename": "mcintyrethe routledge companion to philosophy of social science.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\McIntyreThe Routledge Companion to Philosophy of Social Science.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/McIntyreThe Routledge Companion to Philosophy of Social Science.pdf"
+    },
+    {
+      "itemID": 1367,
+      "title": "PDF",
+      "zotero_basename": "laudan1996 - beyond positivism and relativism theory, method, and evidence.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Laudan1996 - Beyond positivism and relativism theory, method, and evidence.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Laudan1996 - Beyond positivism and relativism theory, method, and evidence.pdf"
+    },
+    {
+      "itemID": 1368,
+      "title": "PDF",
+      "zotero_basename": "gunther et al.foundations of comparative politics.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Gunther et al.Foundations of Comparative Politics.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Gunther et al.Foundations of Comparative Politics.pdf"
+    },
+    {
+      "itemID": 1369,
+      "title": "PDF",
+      "zotero_basename": "moses and knutsen2012 - ways of knowing competing methodologies in social and political research.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Moses and Knutsen2012 - Ways of knowing competing methodologies in social and political research.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Moses and Knutsen2012 - Ways of knowing competing methodologies in social and political research.pdf"
+    },
+    {
+      "itemID": 1370,
+      "title": "PDF",
+      "zotero_basename": "benton and craib2011 - philosophy of social science the philosophical foundations of social thought.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Benton and Craib2011 - Philosophy of social science the philosophical foundations of social thought.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Benton and Craib2011 - Philosophy of social science the philosophical foundations of social thought.pdf"
+    },
+    {
+      "itemID": 1371,
+      "title": "PDF",
+      "zotero_basename": "jarvie and zamora-bonilla2011 - the sage handbook of the philosophy of social sciences.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Jarvie and Zamora-Bonilla2011 - The SAGE Handbook of the Philosophy of Social Sciences.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Jarvie and Zamora-Bonilla2011 - The SAGE Handbook of the Philosophy of Social Sciences.pdf"
+    },
+    {
+      "itemID": 1373,
+      "title": "PDF",
+      "zotero_basename": "lowndes and roberts2013 - why institutions matter the new institutionalism in political science.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Lowndes and Roberts2013 - Why institutions matter the new institutionalism in political science.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Lowndes and Roberts2013 - Why institutions matter the new institutionalism in political science.pdf"
+    },
+    {
+      "itemID": 1374,
+      "title": "PDF",
+      "zotero_basename": "marsh and stoker2010 - theory and methods in political science.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Marsh and Stoker2010 - Theory and methods in political science.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Marsh and Stoker2010 - Theory and methods in political science.pdf"
+    },
+    {
+      "itemID": 1375,
+      "title": "PDF",
+      "zotero_basename": "lockwood1992 - solidarity and schism 'the problem of disorder' in durkheimian and marxist sociology.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Lockwood1992 - Solidarity and schism 'the problem of disorder' in Durkheimian and Marxist sociology.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Lockwood1992 - Solidarity and schism 'the problem of disorder' in Durkheimian and Marxist sociology.pdf"
+    },
+    {
+      "itemID": 1377,
+      "title": "Ebook",
+      "zotero_basename": "little - 2011 - varieties of social explanation an introduction to the philosophy of social science.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Little - 1991 - Varieties of social explanation an introduction to the philosophy of social science.pdf",
+      "match_rel": "Little - 1991 - Varieties of social explanation an introduction to the philosophy of social science.pdf"
+    },
+    {
+      "itemID": 1379,
+      "title": "PDF",
+      "zotero_basename": "daniel little  university of michigan-dearborn.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Daniel Little  University of Michigan-Dearborn.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Daniel Little  University of Michigan-Dearborn.pdf"
+    },
+    {
+      "itemID": 1380,
+      "title": "PDF",
+      "zotero_basename": "wright2005 - conclusion if “class” is the answer, what is the question.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Wright2005 - Conclusion If “class” is the answer, what is the question.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Wright2005 - Conclusion If “class” is the answer, what is the question.pdf"
+    },
+    {
+      "itemID": 1381,
+      "title": "PDF",
+      "zotero_basename": "hempelfundamentals of concept formation in empirical science.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\HempelFundamentals of Concept Formation in Empirical Science.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/HempelFundamentals of Concept Formation in Empirical Science.pdf"
+    },
+    {
+      "itemID": 1383,
+      "title": "PDF",
+      "zotero_basename": "mantzavinosphilosophy of the social sciences philosophical theory and scientific practice.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\MantzavinosPhilosophy of the Social Sciences Philosophical Theory and Scientific Practice.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/MantzavinosPhilosophy of the Social Sciences Philosophical Theory and Scientific Practice.pdf"
+    },
+    {
+      "itemID": 1384,
+      "title": "PDF",
+      "zotero_basename": "kaldis2013 - encyclopedia of philosophy and the social sciences.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Kaldis2013 - Encyclopedia of philosophy and the social sciences.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Kaldis2013 - Encyclopedia of philosophy and the social sciences.pdf"
+    },
+    {
+      "itemID": 1385,
+      "title": "PDF",
+      "zotero_basename": "boudon and boudon1980 - the crisis in sociology problems of sociological epistemology.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Boudon and Boudon1980 - The crisis in sociology problems of sociological epistemology.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Boudon and Boudon1980 - The crisis in sociology problems of sociological epistemology.pdf"
+    },
+    {
+      "itemID": 1386,
+      "title": "PDF",
+      "zotero_basename": "boudon1972 - the sociology crisis.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\Textos Teórico-Metodológicos Centrais\\Philosophy of Social Science\\Boudon1972 - The sociology crisis.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/Textos Teórico-Metodológicos Centrais/Philosophy of Social Science/Boudon1972 - The sociology crisis.pdf"
+    },
+    {
+      "itemID": 1389,
+      "title": "PDF",
+      "zotero_basename": "brady2010 - rethinking social inquiry diverse tools, shared standards.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\00_Curso Teoria e Meotodologia em CP 2024-I [Original]\\01. Leituras Obrigatórias\\Brady2010 - Rethinking Social Inquiry Diverse Tools, Shared Standards.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/00_Curso Teoria e Meotodologia em CP 2024-I [Original]/01. Leituras Obrigatórias/Brady2010 - Rethinking Social Inquiry Diverse Tools, Shared Standards.pdf"
+    },
+    {
+      "itemID": 1394,
+      "title": "PDF",
+      "zotero_basename": "the state in political science how we become what we study.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\The State in Political Science How We Become What We Study.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/The State in Political Science How We Become What We Study.pdf"
+    },
+    {
+      "itemID": 1396,
+      "title": "PDF",
+      "zotero_basename": "lukesreconsideração do individualismo metodológico.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle\\LukesReconsideração do individualismo metodológico.pdf",
+      "match_rel": "_Fix/Literatura de FLS6101 – Teoria e Metodologia em Ciência Política – Adrian Gurza Lavalle/LukesReconsideração do individualismo metodológico.pdf"
+    },
+    {
+      "itemID": 1409,
+      "title": "PDF",
+      "zotero_basename": "2021 - the oxford handbook of the welfare state.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 1414,
+      "title": "PDF",
+      "zotero_basename": "neves and martins - ensino superior no brasil uma visão abrangente.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Neves and Martins - 2016 - Ensino Superior no Brasil Uma visão abrangente.pdf",
+      "match_rel": "Neves and Martins - 2016 - Ensino Superior no Brasil Uma visão abrangente.pdf"
+    },
+    {
+      "itemID": 1416,
+      "title": "PDF",
+      "zotero_basename": "siqueira - 1997 - httpwww.jstor.org review.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Siqueira - 1997 - httpwww.jstor.org Review.pdf",
+      "match_rel": "00_Meta/Siqueira - 1997 - httpwww.jstor.org Review.pdf"
+    },
+    {
+      "itemID": 1417,
+      "title": "PDF",
+      "zotero_basename": "wirth - 1997 - review.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Wirth - 1997 - Review.pdf",
+      "match_rel": "00_Meta/Wirth - 1997 - Review.pdf"
+    },
+    {
+      "itemID": 1419,
+      "title": "PDF",
+      "zotero_basename": "transforming comparative education.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Transforming Comparative Education.pdf",
+      "match_rel": "00_Meta/Transforming Comparative Education.pdf"
+    },
+    {
+      "itemID": 1424,
+      "title": "PDF",
+      "zotero_basename": "braga bastos - 2021 - resenha do livro a gramática política no brasil clientelismo e insulamento burocrático..pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Braga Bastos - 2021 - Resenha do livro A Gramática Política no Brasil Clientelismo e Insulamento Burocrático..pdf",
+      "match_rel": "00_Meta/Braga Bastos - 2021 - Resenha do livro A Gramática Política no Brasil Clientelismo e Insulamento Burocrático..pdf"
+    },
+    {
+      "itemID": 1445,
+      "title": "PDF",
+      "zotero_basename": "kim and tarlau - 2024 - mapping, reflecting, and exploring education for the labour movement a thematic literature review.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Kim and Tarlau - 2024 - Mapping, reflecting, and exploring education for the labour movement a thematic literature review.pdf",
+      "match_rel": "00_Meta/Kim and Tarlau - 2024 - Mapping, reflecting, and exploring education for the labour movement a thematic literature review.pdf"
+    },
+    {
+      "itemID": 1448,
+      "title": "Streeck and Thelen - 2010 - Beyond continuity institutional change in advanced political economies.pdf",
+      "zotero_basename": "streeck and thelen - 2005 - beyond continuity institutional change in advanced political economies.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Streeck and Thelen - 2005 - Beyond continuity institutional change in advanced political economies 1.pdf",
+      "match_rel": "Streeck and Thelen - 2005 - Beyond continuity institutional change in advanced political economies 1.pdf"
+    },
+    {
+      "itemID": 1451,
+      "title": "PDF",
+      "zotero_basename": "godoy - 2024 - chemical castration as gender justice how punitive attitudes inform gender policy preferences and v.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Godoy - 2024 - Chemical castration as gender justice How punitive attitudes inform gender policy preferences and v.pdf",
+      "match_rel": "00_Meta/Godoy - 2024 - Chemical castration as gender justice How punitive attitudes inform gender policy preferences and v.pdf"
+    },
+    {
+      "itemID": 1454,
+      "title": "PDF",
+      "zotero_basename": "iversen and stephens - 2008 - partisan politics, the welfare state, and three worlds of human capital formation.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Iversen and Stephens - 2008 - Partisan Politics, the Welfare State, and Three Worlds of Human Capital Formation.pdf",
+      "match_rel": "00_Meta/Iversen and Stephens - 2008 - Partisan Politics, the Welfare State, and Three Worlds of Human Capital Formation.pdf"
+    },
+    {
+      "itemID": 1456,
+      "title": "PDF",
+      "zotero_basename": "steinmo et al. - 1992 - structuring politics historical institutionalism in comparative analysis 2.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Steinmo et al. - 1992 - Structuring Politics Historical Institutionalism in Comparative Analysis.pdf",
+      "match_rel": "Steinmo et al. - 1992 - Structuring Politics Historical Institutionalism in Comparative Analysis.pdf"
+    },
+    {
+      "itemID": 1459,
+      "title": "PDF",
+      "zotero_basename": "steinmo et al. - 1992 - structuring politics historical institutionalism in comparative analysis 2.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Steinmo et al. - 1992 - Structuring Politics Historical Institutionalism in Comparative Analysis.pdf",
+      "match_rel": "Steinmo et al. - 1992 - Structuring Politics Historical Institutionalism in Comparative Analysis.pdf"
+    },
+    {
+      "itemID": 1466,
+      "title": "Ebook",
+      "zotero_basename": "schwartzman - 2015 - higher education in the brics countries investigating the pact between higher education and society.epub",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Schwartzman et al. - 2015 - Higher Education in the BRICS Countries Investigating the Pact between Higher Education and Society.pdf",
+      "match_rel": "Schwartzman et al. - 2015 - Higher Education in the BRICS Countries Investigating the Pact between Higher Education and Society.pdf"
+    },
+    {
+      "itemID": 1508,
+      "title": "PDF",
+      "zotero_basename": "jackson - 2013 - determined to succeed performance versus choice in educational attainment.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Jackson - 2013 - Determined to Succeed Performance versus Choice in Educational Attainment.pdf",
+      "match_rel": "00_Meta/Jackson - 2013 - Determined to Succeed Performance versus Choice in Educational Attainment.pdf"
+    },
+    {
+      "itemID": 1517,
+      "title": "PDF",
+      "zotero_basename": "grin - 2013 - regime de bem-estar social no brasil três períodos históricos, três diferenças em relação ao modelo.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Grin - 2013 - Regime de Bem-estar Social no Brasil Três Períodos Históricos, Três Diferenças em Relação ao Modelo.pdf",
+      "match_rel": "00_Meta/Grin - 2013 - Regime de Bem-estar Social no Brasil Três Períodos Históricos, Três Diferenças em Relação ao Modelo.pdf"
+    },
+    {
+      "itemID": 1534,
+      "title": "PDF",
+      "zotero_basename": "evans - 1995 - embedded autonomy states and industrial transformation.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Evans - 1995 - Embedded autonomy states and industrial transformation.pdf",
+      "match_rel": "00_Meta/Evans - 1995 - Embedded autonomy states and industrial transformation.pdf"
+    },
+    {
+      "itemID": 1537,
+      "title": "Grin - 2013 - Regime de Bem-estar Social no Brasil Três Períodos Históricos, Três Diferenças em Relação ao Modelo.pdf",
+      "zotero_basename": "grin - 2013 - regime de bem-estar social no brasil três períodos históricos, três diferenças em relação ao modelo.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Grin - 2013 - Regime de Bem-estar Social no Brasil Três Períodos Históricos, Três Diferenças em Relação ao Modelo.pdf",
+      "match_rel": "00_Meta/Grin - 2013 - Regime de Bem-estar Social no Brasil Três Períodos Históricos, Três Diferenças em Relação ao Modelo.pdf"
+    },
+    {
+      "itemID": 1539,
+      "title": "PDF",
+      "zotero_basename": "schneider - 2024 - routes to reform education politics in latin america.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Schneider - 2024 - Routes to Reform Education Politics in Latin America.pdf",
+      "match_rel": "00_Meta/Schneider - 2024 - Routes to Reform Education Politics in Latin America.pdf"
+    },
+    {
+      "itemID": 1835,
+      "title": "PDF",
+      "zotero_basename": "estevez‐abe et al. - 2001 - social protection and the formation of skills a reinterpretation of the welfare state.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Estevez‐Abe et al. - 2001 - Social Protection and the Formation of Skills A Reinterpretation of the Welfare State.pdf",
+      "match_rel": "00_Meta/Estevez‐Abe et al. - 2001 - Social Protection and the Formation of Skills A Reinterpretation of the Welfare State.pdf"
+    },
+    {
+      "itemID": 1839,
+      "title": "PDF",
+      "zotero_basename": "niederle et al. - 2021 - interpretações institucionalistas sobre as transformações dos capitalismos brasileiros da pretensão.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Niederle et al. - 2021 - Interpretações institucionalistas sobre as transformações dos capitalismos brasileiros da pretensão.pdf",
+      "match_rel": "00_Meta/Niederle et al. - 2021 - Interpretações institucionalistas sobre as transformações dos capitalismos brasileiros da pretensão.pdf"
+    },
+    {
+      "itemID": 1842,
+      "title": "PDF",
+      "zotero_basename": "moeller e tarlau - 2016 - thomas piketty’s relevance for the study of education reflections on the political economy of educa.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Moeller and Tarlau - 2016 - Thomas Piketty’s relevance for the study of education reflections on the political economy of educa.pdf",
+      "match_rel": "Moeller and Tarlau - 2016 - Thomas Piketty’s relevance for the study of education reflections on the political economy of educa.pdf"
+    },
+    {
+      "itemID": 1857,
+      "title": "PDF",
+      "zotero_basename": "mazzuca - 2021 - latecomer state formation political geography and capacity failure in latin america.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Mazzuca - 2021 - Latecomer state formation political geography and capacity failure in Latin America.pdf",
+      "match_rel": "00_Meta/Mazzuca - 2021 - Latecomer state formation political geography and capacity failure in Latin America.pdf"
+    },
+    {
+      "itemID": 1858,
+      "title": "Ebook",
+      "zotero_basename": "mazzuca - 2021 - latecomer state formation political geography and capacity failure in latin america.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Mazzuca - 2021 - Latecomer state formation political geography and capacity failure in Latin America.epub",
+      "match_rel": "00_Meta/Mazzuca - 2021 - Latecomer state formation political geography and capacity failure in Latin America.epub"
+    },
+    {
+      "itemID": 1990,
+      "title": "PDF",
+      "zotero_basename": "hacker and pierson - 2002 - business power and social policy employers and the formation of the american welfare state.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Hacker and Pierson - 2002 - Business Power and Social Policy Employers and the Formation of the American Welfare State.pdf",
+      "match_rel": "00_Meta/Hacker and Pierson - 2002 - Business Power and Social Policy Employers and the Formation of the American Welfare State.pdf"
+    },
+    {
+      "itemID": 2014,
+      "title": "PDF",
+      "zotero_basename": "marques - 2013 - capítulo 2 - as políticas públicas na ciência política.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Marques - 2018 - As políticas públicas na ciência política.pdf",
+      "match_rel": "Marques - 2018 - As políticas públicas na ciência política.pdf"
+    },
+    {
+      "itemID": 2018,
+      "title": "Schmidt - 1996 - When parties matter A review of the possibilities and limits of partisan influence on public policy.pdf",
+      "zotero_basename": "schmidt - 1996 - when parties matter a review of the possibilities and limits of partisan influence on public policy.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Schmidt - 1996 - When parties matter A review of the possibilities and limits of partisan influence on public policy.pdf",
+      "match_rel": "00_Meta/Schmidt - 1996 - When parties matter A review of the possibilities and limits of partisan influence on public policy.pdf"
+    },
+    {
+      "itemID": 2048,
+      "title": "Shavit - 2007 - Stratification in higher education a comparative study 1.pdf",
+      "zotero_basename": "shavit - 2007 - stratification in higher education a comparative study 1.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Shavit - 2007 - Stratification in higher education a comparative study.pdf",
+      "match_rel": "Shavit - 2007 - Stratification in higher education a comparative study.pdf"
+    },
+    {
+      "itemID": 2067,
+      "title": "PDF",
+      "zotero_basename": "arretchea agenda institucional.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 2082,
+      "title": "PDF",
+      "zotero_basename": "scott1998 - seeing like a state how certain schemes to improve the human condition have failed.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Scott - 2020 - Seeing like a state how certain schemes to improve the human condition have failed.pdf",
+      "match_rel": "Scott - 2020 - Seeing like a state how certain schemes to improve the human condition have failed.pdf"
+    },
+    {
+      "itemID": 2086,
+      "title": "Ebook",
+      "zotero_basename": "ha-joon chang_(2004)_chutando a escada a estratégia do desenvolvimento em perspectiva histórica_unespundefined (z-library).epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 2111,
+      "title": "Caio Prado Jr. [Prado, Caio Jr.]_(2011)_História econômica do Brasil_Brasilienseundefined (Z-Library)",
+      "zotero_basename": "caio prado jr. [prado, caio jr.]_(2011)_história econômica do brasil_brasilienseundefined (z-library).pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 2138,
+      "title": "Kang - 2018 - Education and development projects in Brazil, 1932-2004 a critique.pdf",
+      "zotero_basename": "kang - 2018 - education and development projects in brazil, 1932-2004 a critique.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Kang - 2018 - Education and development projects in Brazil, 1932-2004 a critique.pdf",
+      "match_rel": "00_Meta/Kang - 2018 - Education and development projects in Brazil, 1932-2004 a critique.pdf"
+    },
+    {
+      "itemID": 2150,
+      "title": "Claudia Goldin_(2021)_The Race between Education and Technology_Harvard University Pressundefined (Z-Library)",
+      "zotero_basename": "claudia goldin_(2021)_the race between education and technology_harvard university pressundefined (z-library).epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 2155,
+      "title": "Challenging Inequality_ Variation Across Postindustrial -- Evelyne Huber; John D_ Stephens -- 2024 -- University of Chicago Press -- 9780226834634 -- d17382b1de2befb7fac6f334e3094019 -- Anna’s Archive",
+      "zotero_basename": "challenging inequality_ variation across postindustrial -- evelyne huber; john d_ stephens -- 2024 -- university of chicago press -- 9780226834634 -- d17382b1de2befb7fac6f334e3094019 -- anna’s archive.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 2264,
+      "title": "PDF",
+      "zotero_basename": "arretchea agenda institucional 2.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 2440,
+      "title": "Jackson2020 - Manifesto for a dream inequality, constraint, and radical reform.pdf",
+      "zotero_basename": "jackson2020 - manifesto for a dream inequality, constraint, and radical reform.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Jackson2020 - Manifesto for a dream inequality, constraint, and radical reform.pdf",
+      "match_rel": "00_Meta/Jackson2020 - Manifesto for a dream inequality, constraint, and radical reform.pdf"
+    },
+    {
+      "itemID": 2458,
+      "title": "Martins - 2009 - A reforma universitária de 1968 e a abertura para o ensino superior privado no Brasil.pdf",
+      "zotero_basename": "martins - 2009 - a reforma universitária de 1968 e a abertura para o ensino superior privado no brasil.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Martins - 2009 - A reforma universitária de 1968 e a abertura para o ensino superior privado no Brasil.pdf",
+      "match_rel": "00_Meta/Martins - 2009 - A reforma universitária de 1968 e a abertura para o ensino superior privado no Brasil.pdf"
+    },
+    {
+      "itemID": 2588,
+      "title": "Carlotto - 2014 - Universitas semper reformanda a história da Universidade de São Paulo e o discurso da gestão à luz.pdf",
+      "zotero_basename": "carlotto - 2014 - universitas semper reformanda a história da universidade de são paulo e o discurso da gestão à luz.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Carlotto - 2014 - Universitas semper reformanda a história da Universidade de São Paulo e o discurso da gestão à luz.pdf",
+      "match_rel": "00_Meta/Carlotto - 2014 - Universitas semper reformanda a história da Universidade de São Paulo e o discurso da gestão à luz.pdf"
+    },
+    {
+      "itemID": 2626,
+      "title": "Saunders - 2019 - Social mobility truths 1.pdf",
+      "zotero_basename": "saunders - 2019 - social mobility truths 1.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Saunders - 2019 - Social mobility truths.pdf",
+      "match_rel": "Saunders - 2019 - Social mobility truths.pdf"
+    },
+    {
+      "itemID": 5053,
+      "title": "Palier et al. - 2022 - How Democracies Transform Their Welfare States The Reform Trajectories and Political Coalitions of.pdf",
+      "zotero_basename": "palier et al. - 2022 - how democracies transform their welfare states the reform trajectories and political coalitions of.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Palier et al. - 2022 - How Democracies Transform Their Welfare States The Reform Trajectories and Political Coalitions of.pdf",
+      "match_rel": "00_Meta/Palier et al. - 2022 - How Democracies Transform Their Welfare States The Reform Trajectories and Political Coalitions of.pdf"
+    },
+    {
+      "itemID": 5058,
+      "title": "Healy - 2019 - Data visualization a practical introduction.pdf",
+      "zotero_basename": "healy - 2019 - data visualization a practical introduction.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Healy - 2019 - Data visualization a practical introduction 2.pdf",
+      "match_rel": "Healy - 2019 - Data visualization a practical introduction 2.pdf"
+    },
+    {
+      "itemID": 5349,
+      "title": "Falleti - 2009 - Infiltrating the State The Evolution of Health Care Reforms in Brazil, 1964–1988.pdf",
+      "zotero_basename": "falleti - 2009 - infiltrating the state the evolution of health care reforms in brazil, 1964–1988.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Falleti - 2009 - Infiltrating the State The Evolution of Health Care Reforms in Brazil, 1964–1988.pdf",
+      "match_rel": "00_Meta/Falleti - 2009 - Infiltrating the State The Evolution of Health Care Reforms in Brazil, 1964–1988.pdf"
+    },
+    {
+      "itemID": 5350,
+      "title": "Falleti - 2009 - Infiltrating the State The Evolution of Health Care Reforms in Brazil, 1964–1988 1.pdf",
+      "zotero_basename": "falleti - 2009 - infiltrating the state the evolution of health care reforms in brazil, 1964–1988 1.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Falleti - 2009 - Infiltrating the State The Evolution of Health Care Reforms in Brazil, 1964–1988 1.pdf",
+      "match_rel": "00_Meta/Falleti - 2009 - Infiltrating the State The Evolution of Health Care Reforms in Brazil, 1964–1988 1.pdf"
+    },
+    {
+      "itemID": 5380,
+      "title": "Mahoney - 2001 - Review Essay Beyond Correlational Analysis Recent Innovations in Theory and Method.pdf",
+      "zotero_basename": "mahoney - 2001 - review essay beyond correlational analysis recent innovations in theory and method.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Mahoney - 2001 - Review Essay Beyond Correlational Analysis Recent Innovations in Theory and Method.pdf",
+      "match_rel": "00_Meta/Mahoney - 2001 - Review Essay Beyond Correlational Analysis Recent Innovations in Theory and Method.pdf"
+    },
+    {
+      "itemID": 5616,
+      "title": "Marteleto et al. - 2016 - Educational stratification after a decade of reforms on higher education access in Brazil.pdf",
+      "zotero_basename": "marteleto et al. - 2016 - educational stratification after a decade of reforms on higher education access in brazil.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Marteleto et al. - 2016 - Educational stratification after a decade of reforms on higher education access in Brazil.pdf",
+      "match_rel": "00_Meta/Marteleto et al. - 2016 - Educational stratification after a decade of reforms on higher education access in Brazil.pdf"
+    },
+    {
+      "itemID": 5674,
+      "title": "Pearl and Mackenzie - 2020 - The book of why the new science of cause and effect.pdf",
+      "zotero_basename": "pearl and mackenzie - 2020 - the book of why the new science of cause and effect.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Pearl and Mackenzie - 2018 - The book of why the new science of cause and effect.pdf",
+      "match_rel": "Pearl and Mackenzie - 2018 - The book of why the new science of cause and effect.pdf"
+    },
+    {
+      "itemID": 5718,
+      "title": "PDF",
+      "zotero_basename": "zhou and panhigher education and the black-white earnings gap.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Zhou and Pan - Higher Education and the Black-White Earnings Gap.pdf",
+      "match_rel": "Zhou and Pan - Higher Education and the Black-White Earnings Gap.pdf"
+    },
+    {
+      "itemID": 5729,
+      "title": "Mare - 1981 - Change and Stability in Educational Stratification.pdf",
+      "zotero_basename": "mare - 1981 - change and stability in educational stratification.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6028,
+      "title": "Attanasio et al. - 2025 - Inequality in Latin America and the Caribbean a wide-ranging review.pdf",
+      "zotero_basename": "attanasio et al. - 2025 - inequality in latin america and the caribbean a wide-ranging review.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Attanasio et al. - 2025 - Inequality in Latin America and the Caribbean a wide-ranging review.pdf",
+      "match_rel": "00_Meta/Attanasio et al. - 2025 - Inequality in Latin America and the Caribbean a wide-ranging review.pdf"
+    },
+    {
+      "itemID": 6048,
+      "title": "Alves - 2025 - What explains equity-enhancing reforms under centre-right governments Evidence from Brazil.pdf",
+      "zotero_basename": "alves - 2025 - what explains equity-enhancing reforms under centre-right governments evidence from brazil.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Alves - 2025 - What explains equity-enhancing reforms under centre-right governments Evidence from Brazil.pdf",
+      "match_rel": "00_Meta/Alves - 2025 - What explains equity-enhancing reforms under centre-right governments Evidence from Brazil.pdf"
+    },
+    {
+      "itemID": 6086,
+      "title": "Husn-SwedishSchoolReformExemplary-1989",
+      "zotero_basename": "husn-swedishschoolreformexemplary-1989.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6087,
+      "title": "NPM_SwedenFinal",
+      "zotero_basename": "npm_swedenfinal.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\NPM_SwedenFinal (1).pdf",
+      "match_rel": "NPM_SwedenFinal (1).pdf"
+    },
+    {
+      "itemID": 6089,
+      "title": "d46d8cc6-en",
+      "zotero_basename": "d46d8cc6-en.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6158,
+      "title": "PDF",
+      "zotero_basename": "bowles and gintis - 2011 - schooling in capitalist america educational reform and the contradictions of economic life.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Bowles and Gintis - 2011 - Schooling in capitalist America educational reform and the contradictions of economic life.pdf",
+      "match_rel": "00_Meta/Bowles and Gintis - 2011 - Schooling in capitalist America educational reform and the contradictions of economic life.pdf"
+    },
+    {
+      "itemID": 6179,
+      "title": "10x-Jacobs-Popper, Weber and the Rationalist Approach",
+      "zotero_basename": "10x-jacobs-popper, weber and the rationalist approach.pdf",
+      "confidence": "exact_multi",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\10x-Jacobs-Popper, Weber and the Rationalist Approach.pdf",
+      "match_rel": "10x-Jacobs-Popper, Weber and the Rationalist Approach.pdf"
+    },
+    {
+      "itemID": 6195,
+      "title": "Hachen, D. (1994). Book Reviews - Robert Erikson and John H. Goldthorpe- The Constant Flux. A Study of Class Mobility in Industrial Societies",
+      "zotero_basename": "hachen, d. (1994). book reviews - robert erikson and john h. goldthorpe- the constant flux. a study of class mobility in industrial societies.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Hachen, D. (1994). Book Reviews - Robert Erikson and John H. Goldthorpe- The Constant Flux. A Study of Class Mobility in Industrial Societies.pdf",
+      "match_rel": "00_Meta/Hachen, D. (1994). Book Reviews - Robert Erikson and John H. Goldthorpe- The Constant Flux. A Study of Class Mobility in Industrial Societies.pdf"
+    },
+    {
+      "itemID": 6247,
+      "title": "Niederle et al. - 2021 - Interpretações institucionalistas sobre as transformações dos capitalismos brasileiros da pretensão",
+      "zotero_basename": "niederle et al. - 2021 - interpretações institucionalistas sobre as transformações dos capitalismos brasileiros da pretensão.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Niederle et al. - 2021 - Interpretações institucionalistas sobre as transformações dos capitalismos brasileiros da pretensão.pdf",
+      "match_rel": "00_Meta/Niederle et al. - 2021 - Interpretações institucionalistas sobre as transformações dos capitalismos brasileiros da pretensão.pdf"
+    },
+    {
+      "itemID": 6262,
+      "title": "Milanovic_B-(2020)-Capitalismo_sem_rivais_O_futuro_do_sistema_que_domina_o_mundo",
+      "zotero_basename": "milanovic_b-(2020)-capitalismo_sem_rivais_o_futuro_do_sistema_que_domina_o_mundo.epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6263,
+      "title": "Joseph A. Schumpeter. (2017). Capitalismo, socialismo e democracia. SciELO - Editora UNESP. — (—). — (Z-Library)",
+      "zotero_basename": "joseph a. schumpeter. (2017). capitalismo, socialismo e democracia. scielo - editora unesp. — (—). — (z-library).epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6266,
+      "title": "Imperialismo, estágio superior do capitalismo by Vladímir Ilitch Lênin (z-lib.org)",
+      "zotero_basename": "imperialismo, estágio superior do capitalismo by vladímir ilitch lênin (z-lib.org).epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6267,
+      "title": "Capitalismo, Socialismo e Democracia by Joseph A. Schumpeter (z-lib.org)",
+      "zotero_basename": "capitalismo, socialismo e democracia by joseph a. schumpeter (z-lib.org).epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6273,
+      "title": "Landim - 2021 - Why not como os irmãos Joesley e Wesley, da JBS, transformaram um açougue em Goiás na maior empresa.epub",
+      "zotero_basename": "landim - 2021 - why not como os irmãos joesley e wesley, da jbs, transformaram um açougue em goiás na maior empresa.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Landim - 2021 - Why not como os irmãos Joesley e Wesley, da JBS, transformaram um açougue em Goiás na maior empresa.epub",
+      "match_rel": "00_Meta/Landim - 2021 - Why not como os irmãos Joesley e Wesley, da JBS, transformaram um açougue em Goiás na maior empresa.epub"
+    },
+    {
+      "itemID": 6353,
+      "title": "Ebook",
+      "zotero_basename": "weber - 2023 - como a china escapou da terapia de choque o debate da reforma de mercado.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Weber - 2023 - Como a China escapou da terapia de choque O debate da reforma de mercado.epub",
+      "match_rel": "00_Meta/Weber - 2023 - Como a China escapou da terapia de choque O debate da reforma de mercado.epub"
+    },
+    {
+      "itemID": 6356,
+      "title": "Why Not Como os irmãos Joesley e Wesley, da JBS, transformaram um açougue em Goiás na maior empresa de carnes do mundo by Raquel Landim (z-lib.org)",
+      "zotero_basename": "why not como os irmãos joesley e wesley, da jbs, transformaram um açougue em goiás na maior empresa de carnes do mundo by raquel landim (z-lib.org).epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6389,
+      "title": "Milanovic_B-(2020)-Capitalismo_sem_rivais_O_futuro_do_sistema_que_domina_o_mundo",
+      "zotero_basename": "milanovic_b-(2020)-capitalismo_sem_rivais_o_futuro_do_sistema_que_domina_o_mundo.epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6396,
+      "title": "Podolny, Joel M. Hansen, Morten T._(2021)._HBRs 10 Must Reads on Leading Digital Transformation_— (Z-Library)",
+      "zotero_basename": "podolny, joel m. hansen, morten t._(2021)._hbrs 10 must reads on leading digital transformation_— (z-library).epub",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6428,
+      "title": "Lazarsfeld, P. F. (1962). The Sociology of Empirical Social Research. American Sociological Review  (1)",
+      "zotero_basename": "lazarsfeld, p. f. (1962). the sociology of empirical social research. american sociological review  (1).pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Lazarsfeld, P. F. (1962). The Sociology of Empirical Social Research. American Sociological Review .pdf",
+      "match_rel": "00_Meta/Lazarsfeld, P. F. (1962). The Sociology of Empirical Social Research. American Sociological Review .pdf"
+    },
+    {
+      "itemID": 6730,
+      "title": "[Cambridge Studies in the Comparative Politics of Education] Katharina Sass - The Politics of Comprehensive School Reforms_ Cleavages and Coalitions (2022, Cambridge University Press) [v] .pdf",
+      "zotero_basename": "sass - 2022 - the politics of comprehensive school reforms cleavages and coalitions.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Sass - 2022 - The politics of comprehensive school reforms cleavages and coalitions.pdf",
+      "match_rel": "00_Meta/Sass - 2022 - The politics of comprehensive school reforms cleavages and coalitions.pdf"
+    },
+    {
+      "itemID": 6747,
+      "title": "Terry M. Moe, Susanne Wiborg - The Comparative Politics of Education_ Teachers Unions and Education Systems Around the World (2017, Cambridge University Press) [10.1017_9781316717653] - libgen.li",
+      "zotero_basename": "terry m. moe, susanne wiborg - the comparative politics of education_ teachers unions and education systems around the world (2017, cambridge university press) [10.1017_9781316717653] - libgen.li.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 6777,
+      "title": "PDF",
+      "zotero_basename": "taylor - 2016 - syllabus ph.d. seminar in comparative politics.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\Taylor - 2016 - Syllabus PH.D. Seminar in comparative politics.pdf",
+      "match_rel": "01_Syllabi/Taylor - 2016 - Syllabus PH.D. Seminar in comparative politics.pdf"
+    },
+    {
+      "itemID": 6778,
+      "title": "PDF",
+      "zotero_basename": "stein - 2022 - programa desenho de pesquisa em política comparada.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\Stein - 2022 - Programa Desenho de pesquisa em política comparada.pdf",
+      "match_rel": "01_Syllabi/Stein - 2022 - Programa Desenho de pesquisa em política comparada.pdf"
+    },
+    {
+      "itemID": 6783,
+      "title": "PDF",
+      "zotero_basename": "polanyi - 2021 - a grande transformação as origens políticas e econômicas do nosso tempo.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Polanyi - 2021 - A Grande Transformação As origens políticas e econômicas do nosso tempo.pdf",
+      "match_rel": "00_Meta/Polanyi - 2021 - A Grande Transformação As origens políticas e econômicas do nosso tempo.pdf"
+    },
+    {
+      "itemID": 6788,
+      "title": "PDF",
+      "zotero_basename": "polanyi - 2015 - a grande transformação as origens políticas e económicas do nosso tempo.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Polanyi - 2015 - A grande transformação as origens políticas e económicas do nosso tempo.pdf",
+      "match_rel": "00_Meta/Polanyi - 2015 - A grande transformação as origens políticas e económicas do nosso tempo.pdf"
+    },
+    {
+      "itemID": 6844,
+      "title": "Polanyi,-K._(2001[1944])_The-Great-Transformation- The Political and Economic Origins of Our Time_Beacon Press",
+      "zotero_basename": "polanyi,-k._(2001[1944])_the-great-transformation- the political and economic origins of our time_beacon press.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Polanyi,-K._(2001[1944])_The-Great-Transformation- The Political and Economic Origins of Our Time_Beacon Press.epub",
+      "match_rel": "00_Meta/Polanyi,-K._(2001[1944])_The-Great-Transformation- The Political and Economic Origins of Our Time_Beacon Press.epub"
+    },
+    {
+      "itemID": 6845,
+      "title": "Polanyi - 2001 - The great transformation the political and economic origins of our time.pdf",
+      "zotero_basename": "polanyi - 2001 - the great transformation the political and economic origins of our time.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Polanyi - 2001 - The great transformation the political and economic origins of our time.pdf",
+      "match_rel": "00_Meta/Polanyi - 2001 - The great transformation the political and economic origins of our time.pdf"
+    },
+    {
+      "itemID": 6884,
+      "title": "PDF",
+      "zotero_basename": "rasmussen and knutsen - 2022 - reforming to survive the bolshevik origins of social policies.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Rasmussen and Knutsen - 2022 - Reforming to survive the Bolshevik origins of social policies.pdf",
+      "match_rel": "00_Meta/Rasmussen and Knutsen - 2022 - Reforming to survive the Bolshevik origins of social policies.pdf"
+    },
+    {
+      "itemID": 7120,
+      "title": "PDF",
+      "zotero_basename": "barrientos - 2025 - social protection in latin america a critical review.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Barrientos - 2025 - Social protection in Latin America a critical review.pdf",
+      "match_rel": "00_Meta/Barrientos - 2025 - Social protection in Latin America a critical review.pdf"
+    },
+    {
+      "itemID": 7166,
+      "title": "PDF",
+      "zotero_basename": "chueri and busemeyer - 2025 - different status, same demands the social policy preferences of platform workers in oecd countries.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Chueri and Busemeyer - 2025 - Different status, same demands The social policy preferences of platform workers in OECD countries.pdf",
+      "match_rel": "00_Meta/Chueri and Busemeyer - 2025 - Different status, same demands The social policy preferences of platform workers in OECD countries.pdf"
+    },
+    {
+      "itemID": 7261,
+      "title": "livro_SituacaoSocialBrasileira_2007",
+      "zotero_basename": "livro_situacaosocialbrasileira_2007.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 7280,
+      "title": "PDF",
+      "zotero_basename": "de farias and rocha - formalizing microentrepreneurs through targeted tax systems evidence from brazil.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\de Farias and Rocha - Formalizing Microentrepreneurs through Targeted Tax Systems Evidence from Brazil.pdf",
+      "match_rel": "00_Meta/de Farias and Rocha - Formalizing Microentrepreneurs through Targeted Tax Systems Evidence from Brazil.pdf"
+    },
+    {
+      "itemID": 7294,
+      "title": "Ebook",
+      "zotero_basename": "wu - 2010 - the master switch the rise and fall of information empires.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Wu - 2010 - The Master Switch The Rise and Fall of Information Empires.epub",
+      "match_rel": "00_Meta/Wu - 2010 - The Master Switch The Rise and Fall of Information Empires.epub"
+    },
+    {
+      "itemID": 7328,
+      "title": "Reportagem-da-Revista-Piaui-Ha-40-anos-o-primeiro-CIEP-e-inaugurado-no-Rio-de-Janeiro 1.pdf",
+      "zotero_basename": "reportagem-da-revista-piaui-ha-40-anos-o-primeiro-ciep-e-inaugurado-no-rio-de-janeiro 1.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Reportagem-da-Revista-Piaui-Ha-40-anos-o-primeiro-CIEP-e-inaugurado-no-Rio-de-Janeiro 1.pdf",
+      "match_rel": "00_Meta/Reportagem-da-Revista-Piaui-Ha-40-anos-o-primeiro-CIEP-e-inaugurado-no-Rio-de-Janeiro 1.pdf"
+    },
+    {
+      "itemID": 7340,
+      "title": "PDF",
+      "zotero_basename": "alexiadou and lundahlreforming swedish education through new public management and quasi- markets.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Alexiadou and LundahlReforming Swedish education through New Public Management and quasi- markets.pdf",
+      "match_rel": "00_Meta/Alexiadou and LundahlReforming Swedish education through New Public Management and quasi- markets.pdf"
+    },
+    {
+      "itemID": 7342,
+      "title": "PDF",
+      "zotero_basename": "husén - 1989 - the swedish school reform—exemplary both ways.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Husén - 1989 - The Swedish School Reform—exemplary both ways.pdf",
+      "match_rel": "00_Meta/Husén - 1989 - The Swedish School Reform—exemplary both ways.pdf"
+    },
+    {
+      "itemID": 7441,
+      "title": "PDF",
+      "zotero_basename": "durhamhigher education in brazil public and private.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 7470,
+      "title": "AbadieWhen Should You Adjust Standard Errors for Clustering.pdf",
+      "zotero_basename": "abadiewhen should you adjust standard errors for clustering.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Abadie - When Should You Adjust Standard Errors for Clustering.pdf",
+      "match_rel": "Abadie - When Should You Adjust Standard Errors for Clustering.pdf"
+    },
+    {
+      "itemID": 7471,
+      "title": "AbadieSynthetic Controls Methods and Practice.pdf",
+      "zotero_basename": "abadiesynthetic controls methods and practice.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Abadie - Synthetic Controls Methods and Practice.pdf",
+      "match_rel": "Abadie - Synthetic Controls Methods and Practice.pdf"
+    },
+    {
+      "itemID": 7757,
+      "title": "PDF",
+      "zotero_basename": "busemeyer - 2025 - the value(s) of education on the link between skill formation regimes and mass public attitudes in.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Busemeyer - 2025 - The Value(s) of Education On the Link Between Skill Formation Regimes and Mass Public Attitudes in.pdf",
+      "match_rel": "00_Meta/Busemeyer - 2025 - The Value(s) of Education On the Link Between Skill Formation Regimes and Mass Public Attitudes in.pdf"
+    },
+    {
+      "itemID": 7758,
+      "title": "PDF",
+      "zotero_basename": "kosack - 2025 - the neglected middle education in latin america after a half-century of reform.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Kosack - 2025 - The Neglected Middle Education in Latin America After a Half-Century of Reform.pdf",
+      "match_rel": "00_Meta/Kosack - 2025 - The Neglected Middle Education in Latin America After a Half-Century of Reform.pdf"
+    },
+    {
+      "itemID": 7769,
+      "title": "PDF",
+      "zotero_basename": "rangel-padilla - 2025 - the skills formation challenge in latin america states, firms, and clusters in high-tech sectors.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Rangel-Padilla - 2025 - The Skills Formation Challenge in Latin America States, Firms, and Clusters in High-Tech Sectors.pdf",
+      "match_rel": "00_Meta/Rangel-Padilla - 2025 - The Skills Formation Challenge in Latin America States, Firms, and Clusters in High-Tech Sectors.pdf"
+    },
+    {
+      "itemID": 7773,
+      "title": "PDF",
+      "zotero_basename": "apaydin - 2025 - political regimes, reform coalitions, and skill formation a subnational comparative perspective.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Apaydin - 2025 - Political Regimes, Reform Coalitions, and Skill Formation A Subnational Comparative Perspective.pdf",
+      "match_rel": "00_Meta/Apaydin - 2025 - Political Regimes, Reform Coalitions, and Skill Formation A Subnational Comparative Perspective.pdf"
+    },
+    {
+      "itemID": 7923,
+      "title": "favaro",
+      "zotero_basename": "fávero - 2006 - a universidade no brasil das origens à reforma universitária de 1968.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Fávero - 2006 - A universidade no Brasil das origens à Reforma Universitária de 1968.pdf",
+      "match_rel": "00_Meta/Fávero - 2006 - A universidade no Brasil das origens à Reforma Universitária de 1968.pdf"
+    },
+    {
+      "itemID": 7944,
+      "title": "PDF",
+      "zotero_basename": "junior - 2022 - ensino médio no brasil análise documental das reformas no período entre 1931 e 2017.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Junior - 2022 - Ensino Médio no Brasil análise documental das reformas no período entre 1931 e 2017.pdf",
+      "match_rel": "00_Meta/Junior - 2022 - Ensino Médio no Brasil análise documental das reformas no período entre 1931 e 2017.pdf"
+    },
+    {
+      "itemID": 8032,
+      "title": "3587899",
+      "zotero_basename": "3587899.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 8280,
+      "title": "PDF",
+      "zotero_basename": "de ridder-symoens - 1996 - a history of the university in europe.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\2025-10-200História da Educação no Brasil\\de Ridder-Symoens - 1996 - A history of the university in europe.pdf",
+      "match_rel": "_Fix/2025-10-200História da Educação no Brasil/de Ridder-Symoens - 1996 - A history of the university in europe.pdf"
+    },
+    {
+      "itemID": 8368,
+      "title": "gt11-2337-int",
+      "zotero_basename": "gt11-2337-int.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 8426,
+      "title": "PDF",
+      "zotero_basename": "aranha - 2021 - história da educação e da pedagogia geral e brasil.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\2025-10-200História da Educação no Brasil\\Aranha - 2021 - História da educação e da pedagogia geral e Brasil.pdf",
+      "match_rel": "_Fix/2025-10-200História da Educação no Brasil/Aranha - 2021 - História da educação e da pedagogia geral e Brasil.pdf"
+    },
+    {
+      "itemID": 8429,
+      "title": "PDF",
+      "zotero_basename": "bastos - 2015 - maria lúcia de arruda aranha e a história da educação.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\2025-10-200História da Educação no Brasil\\Bastos - 2015 - MARIA LÚCIA DE ARRUDA ARANHA E A HISTÓRIA DA EDUCAÇÃO.pdf",
+      "match_rel": "_Fix/2025-10-200História da Educação no Brasil/Bastos - 2015 - MARIA LÚCIA DE ARRUDA ARANHA E A HISTÓRIA DA EDUCAÇÃO.pdf"
+    },
+    {
+      "itemID": 8442,
+      "title": "Nierotka and Trevisol - 2018 - Ações afirmativas na educação superior a experiência da Universidade Federal da Fronteira Sul.pdf",
+      "zotero_basename": "nierotka and trevisol - 2018 - ações afirmativas na educação superior a experiência da universidade federal da fronteira sul.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\2025-10-200História da Educação no Brasil\\Nierotka and Trevisol - 2018 - Ações afirmativas na educação superior a experiência da Universidade Federal da Fronteira Sul.pdf",
+      "match_rel": "_Fix/2025-10-200História da Educação no Brasil/Nierotka and Trevisol - 2018 - Ações afirmativas na educação superior a experiência da Universidade Federal da Fronteira Sul.pdf"
+    },
+    {
+      "itemID": 8465,
+      "title": "PDF",
+      "zotero_basename": "gonçalves vidal and batista da silva - 2024 - rethinking centre-periphery assumptions in the history of education exchanges among brazil, usa, an.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\2025-10-200História da Educação no Brasil\\Gonçalves Vidal and Batista Da Silva - 2024 - Rethinking Centre-Periphery Assumptions in the History of Education Exchanges among Brazil, USA, an.pdf",
+      "match_rel": "_Fix/2025-10-200História da Educação no Brasil/Gonçalves Vidal and Batista Da Silva - 2024 - Rethinking Centre-Periphery Assumptions in the History of Education Exchanges among Brazil, USA, an.pdf"
+    },
+    {
+      "itemID": 8475,
+      "title": "PDF",
+      "zotero_basename": "nierotka and trevisol - 2018 - desigualdades sociais e elitismo da educaçãosuperior brasileira.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\_Fix\\2025-10-200História da Educação no Brasil\\Nierotka and Trevisol - 2018 - Desigualdades sociais e elitismo da educaçãosuperior brasileira.pdf",
+      "match_rel": "_Fix/2025-10-200História da Educação no Brasil/Nierotka and Trevisol - 2018 - Desigualdades sociais e elitismo da educaçãosuperior brasileira.pdf"
+    },
+    {
+      "itemID": 8631,
+      "title": "DelaOetall_2025",
+      "zotero_basename": "delaoetall_2025.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\DelaOetall_2025 (1).pdf",
+      "match_rel": "DelaOetall_2025 (1).pdf"
+    },
+    {
+      "itemID": 8668,
+      "title": "3587899",
+      "zotero_basename": "3587899.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 8680,
+      "title": "PDF",
+      "zotero_basename": "hautmann et al. - 1976 - diagnosis of renal tumor by gamma-glutamyltranspeptidase (ec 2.3.2.2).pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 8722,
+      "title": "Wjuniski - 2013 - Education and development projects in Brazil (1932-2004) political economy perspective.pdf",
+      "zotero_basename": "wjuniski - 2013 - education and development projects in brazil (1932-2004) political economy perspective.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Wjuniski - 2013 - Education and development projects in Brazil (1932-2004) political economy perspective.pdf",
+      "match_rel": "00_Meta/Wjuniski - 2013 - Education and development projects in Brazil (1932-2004) political economy perspective.pdf"
+    },
+    {
+      "itemID": 8745,
+      "title": "Martins - 2014 - Reflexos reformistas o ensino das humanidades na ditadura militar brasileira e as formas duvidosas.pdf",
+      "zotero_basename": "martins - 2014 - reflexos reformistas o ensino das humanidades na ditadura militar brasileira e as formas duvidosas.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Martins - 2014 - Reflexos reformistas o ensino das humanidades na ditadura militar brasileira e as formas duvidosas.pdf",
+      "match_rel": "00_Meta/Martins - 2014 - Reflexos reformistas o ensino das humanidades na ditadura militar brasileira e as formas duvidosas.pdf"
+    },
+    {
+      "itemID": 8777,
+      "title": "PDF",
+      "zotero_basename": "cunha - 2007 - a universidade reformada o golpe de 1964 e a modernização do ensino superior.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Cunha - 2007 - A Universidade Reformada O Golpe de 1964 e a Modernização do Ensino Superior.pdf",
+      "match_rel": "00_Meta/Cunha - 2007 - A Universidade Reformada O Golpe de 1964 e a Modernização do Ensino Superior.pdf"
+    },
+    {
+      "itemID": 8783,
+      "title": "Rossi and Braghini - 2025 - O movimento estudantil e os acordos MEC-USAID nas páginas de ¡i¿O Estado de S. Paulo¡i¿ (1962-1970).pdf",
+      "zotero_basename": "rossi and braghini - 2025 - o movimento estudantil e os acordos mec-usaid nas páginas de ¡i¿o estado de s. paulo¡i¿ (1962-1970).pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\02_Documentos_Governamentais\\Rossi and Braghini - 2025 - O movimento estudantil e os acordos MEC-USAID nas páginas de ¡i¿O Estado de S. Paulo¡i¿ (1962-1970).pdf",
+      "match_rel": "02_Documentos_Governamentais/Rossi and Braghini - 2025 - O movimento estudantil e os acordos MEC-USAID nas páginas de ¡i¿O Estado de S. Paulo¡i¿ (1962-1970).pdf"
+    },
+    {
+      "itemID": 8851,
+      "title": "Caramani - 2005 - The Formation of National Party Systems in Europe A Comparative‐Historical Analysis.pdf",
+      "zotero_basename": "caramani - 2005 - the formation of national party systems in europe a comparative‐historical analysis.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Caramani - 2005 - The Formation of National Party Systems in Europe A Comparative‐Historical Analysis.pdf",
+      "match_rel": "00_Meta/Caramani - 2005 - The Formation of National Party Systems in Europe A Comparative‐Historical Analysis.pdf"
+    },
+    {
+      "itemID": 8864,
+      "title": "PDF",
+      "zotero_basename": "szelenyi - 2011 - post-communist welfare pathways theorizing social policy transformations in central and eastern eur.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Szelenyi - 2011 - Post-Communist Welfare Pathways Theorizing Social Policy Transformations in Central and Eastern Eur.pdf",
+      "match_rel": "00_Meta/Szelenyi - 2011 - Post-Communist Welfare Pathways Theorizing Social Policy Transformations in Central and Eastern Eur.pdf"
+    },
+    {
+      "itemID": 8867,
+      "title": "PDF",
+      "zotero_basename": "fleury - 2017 - the welfare state in latin america reform, innovation and fatigue.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Fleury - 2017 - The Welfare State in Latin America reform, innovation and fatigue.pdf",
+      "match_rel": "00_Meta/Fleury - 2017 - The Welfare State in Latin America reform, innovation and fatigue.pdf"
+    },
+    {
+      "itemID": 8901,
+      "title": "Towards a Social Investment Welfare State_ _ Ideas, Policies -- Nathalie Morel (editor), Bruno Palier (editor), Joakim Palme -- 2011 -- Policy Press -- 9781847429247 -- 5ecea4d1ee34fb73a75ba43b7aa0946b -- Ann",
+      "zotero_basename": "towards a social investment welfare state_ _ ideas, policies -- nathalie morel (editor), bruno palier (editor), joakim palme -- 2011 -- policy press -- 9781847429247 -- 5ecea4d1ee34fb73a75ba43b7aa0946b -- ann.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 8903,
+      "title": "Social Democracy Inside Out _ Partisanship and Labor Market -- David Rueda; Oxford University Press -- 1_ publ, Oxford, 2007 -- Oxford University -- 9780191527098 -- b482b611780ab476d88284b5a1908935 -- Anna’s",
+      "zotero_basename": "social democracy inside out _ partisanship and labor market -- david rueda; oxford university press -- 1_ publ, oxford, 2007 -- oxford university -- 9780191527098 -- b482b611780ab476d88284b5a1908935 -- anna’s.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 8904,
+      "title": "Shifting_the_Public_Private_Mix",
+      "zotero_basename": "shifting_the_public_private_mix.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 8905,
+      "title": "mpifg_zs10_119",
+      "zotero_basename": "mpifg_zs10_119.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 8950,
+      "title": "Busemeyer_Richtlinien_Gutachten-1",
+      "zotero_basename": "busemeyer_richtlinien_gutachten-1.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Busemeyer_Richtlinien_Gutachten-1.pdf",
+      "match_rel": "00_Meta/Busemeyer_Richtlinien_Gutachten-1.pdf"
+    },
+    {
+      "itemID": 8956,
+      "title": "PDF",
+      "zotero_basename": "filgueirawelfare and democracy in latin america the development, crises and aftermath of universal, dual and exclusionary social states.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 8971,
+      "title": "PDF",
+      "zotero_basename": "krishnarajan et al. - 2023 - early-adulthood economic experiences and the formation of democratic support.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Krishnarajan et al. - 2023 - Early-Adulthood Economic Experiences and the Formation of Democratic Support.pdf",
+      "match_rel": "00_Meta/Krishnarajan et al. - 2023 - Early-Adulthood Economic Experiences and the Formation of Democratic Support.pdf"
+    },
+    {
+      "itemID": 8975,
+      "title": "PDF",
+      "zotero_basename": "o’grady - 2019 - careerists versus coal-miners welfare reforms and the substantive representation of social groups i.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\O’Grady - 2019 - Careerists Versus Coal-Miners Welfare Reforms and the Substantive Representation of Social Groups i.pdf",
+      "match_rel": "00_Meta/O’Grady - 2019 - Careerists Versus Coal-Miners Welfare Reforms and the Substantive Representation of Social Groups i.pdf"
+    },
+    {
+      "itemID": 8980,
+      "title": "PDF",
+      "zotero_basename": "culpepper and thelen - 2020 - are we all amazon primed consumers and the politics of platform power.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Culpepper and Thelen - 2020 - Are We All Amazon Primed Consumers and the Politics of Platform Power.pdf",
+      "match_rel": "00_Meta/Culpepper and Thelen - 2020 - Are We All Amazon Primed Consumers and the Politics of Platform Power.pdf"
+    },
+    {
+      "itemID": 8985,
+      "title": "PDF",
+      "zotero_basename": "thelen - 2018 - regulating uber the politics of the platform economy in europe and the united states.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Thelen - 2018 - Regulating Uber The Politics of the Platform Economy in Europe and the United States.pdf",
+      "match_rel": "00_Meta/Thelen - 2018 - Regulating Uber The Politics of the Platform Economy in Europe and the United States.pdf"
+    },
+    {
+      "itemID": 8987,
+      "title": "PDF",
+      "zotero_basename": "rahman and thelen - 2019 - the rise of the platform business model and the transformation of twenty-first-century capitalism.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Rahman and Thelen - 2019 - The Rise of the Platform Business Model and the Transformation of Twenty-First-Century Capitalism.pdf",
+      "match_rel": "00_Meta/Rahman and Thelen - 2019 - The Rise of the Platform Business Model and the Transformation of Twenty-First-Century Capitalism.pdf"
+    },
+    {
+      "itemID": 9081,
+      "title": "PDF",
+      "zotero_basename": "verger et al. - 2016 - the privatization of education a political economy of global education reform.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Verger et al. - 2016 - The Privatization of Education A Political Economy of Global Education Reform.pdf",
+      "match_rel": "00_Meta/Verger et al. - 2016 - The Privatization of Education A Political Economy of Global Education Reform.pdf"
+    },
+    {
+      "itemID": 9086,
+      "title": "Political Economy_Chapter 3",
+      "zotero_basename": "political economy_chapter 3.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 9101,
+      "title": "6000831_SBWS_ABM_AbmeldungInsAusland_Zusammenfassung_DEV_QS_Release_v5.6-AZtfrIK0cMGehEJC8WzhHQ",
+      "zotero_basename": "6000831_sbws_abm_abmeldunginsausland_zusammenfassung_dev_qs_release_v5.6-aztfrik0cmgehejc8wzhhq.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\6000831_SBWS_ABM_AbmeldungInsAusland_Zusammenfassung_DEV_QS_Release_v5.6-AZtfrIK0cMGehEJC8WzhHQ.pdf",
+      "match_rel": "00_Meta/6000831_SBWS_ABM_AbmeldungInsAusland_Zusammenfassung_DEV_QS_Release_v5.6-AZtfrIK0cMGehEJC8WzhHQ.pdf"
+    },
+    {
+      "itemID": 9163,
+      "title": "Qiao Gina, Conyers Yolanda. (—)The Lenovo Way Managing a Diverse Global Company for Optimal Performa.pdf",
+      "zotero_basename": "qiao gina, conyers yolanda. (—)the lenovo way managing a diverse global company for optimal performa.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Qiao Gina, Conyers Yolanda. (—)The Lenovo Way Managing a Diverse Global Company for Optimal Performa.pdf",
+      "match_rel": "00_Meta/Qiao Gina, Conyers Yolanda. (—)The Lenovo Way Managing a Diverse Global Company for Optimal Performa.pdf"
+    },
+    {
+      "itemID": 9164,
+      "title": "Stephan Leibfried, Evelyne Huber, Matthew Lange etc._(2015)_The Oxford Handbook of Transformations o.pdf",
+      "zotero_basename": "stephan leibfried, evelyne huber, matthew lange etc._(2015)_the oxford handbook of transformations o.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Stephan Leibfried, Evelyne Huber, Matthew Lange etc._(2015)_The Oxford Handbook of Transformations o.pdf",
+      "match_rel": "00_Meta/Stephan Leibfried, Evelyne Huber, Matthew Lange etc._(2015)_The Oxford Handbook of Transformations o.pdf"
+    },
+    {
+      "itemID": 9165,
+      "title": "Stephan Leibfried, Evelyne Huber, Matthew Lange etc._(2015)_The Oxford Handbook of Transformations of the State_Oxford University Press, USAundefined.epub",
+      "zotero_basename": "stephan leibfried, evelyne huber, matthew lange etc._(2015)_the oxford handbook of transformations of the state_oxford university press, usaundefined.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Stephan Leibfried, Evelyne Huber, Matthew Lange etc._(2015)_The Oxford Handbook of Transformations of the State_Oxford University Press, USAundefined.epub",
+      "match_rel": "00_Meta/Stephan Leibfried, Evelyne Huber, Matthew Lange etc._(2015)_The Oxford Handbook of Transformations of the State_Oxford University Press, USAundefined.epub"
+    },
+    {
+      "itemID": 9166,
+      "title": "Stratification in Higher Education_ A Comparative Study -- Heyneman, Stephen P -- The Review of Higher Education, #3, 31, pages 366-367, 2008 -- 10.13.pdf",
+      "zotero_basename": "stratification in higher education_ a comparative study -- heyneman, stephen p -- the review of higher education, #3, 31, pages 366-367, 2008 -- 10.13.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 9199,
+      "title": "Syllabus",
+      "zotero_basename": "syllabus.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\Syllabus.pdf",
+      "match_rel": "01_Syllabi/Syllabus.pdf"
+    },
+    {
+      "itemID": 9396,
+      "title": "newplot",
+      "zotero_basename": "newplot.png",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 9397,
+      "title": "educ483 syllabus 2026",
+      "zotero_basename": "educ483 syllabus 2026.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\educ483 syllabus 2026.pdf",
+      "match_rel": "01_Syllabi/educ483 syllabus 2026.pdf"
+    },
+    {
+      "itemID": 9440,
+      "title": "Fernandes - 2000 - A Formação do MST no Brasil.pdf",
+      "zotero_basename": "fernandes - 2000 - a formação do mst no brasil.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Fernandes - 2000 - A Formação do MST no Brasil.pdf",
+      "match_rel": "00_Meta/Fernandes - 2000 - A Formação do MST no Brasil.pdf"
+    },
+    {
+      "itemID": 9622,
+      "title": "nunn2008",
+      "zotero_basename": "nunn2008.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 9623,
+      "title": "nunn2008",
+      "zotero_basename": "nunn2008.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 9679,
+      "title": "PDF",
+      "zotero_basename": "pereira - 2012 - “por uma autêntica democracia racial!” os movimentos negros nas escolas e nos currículos de históri.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\02_Documentos_Governamentais\\Personal-Documents\\Pereira - 2012 - “Por uma autêntica democracia racial!” os movimentos negros nas escolas e nos currículos de históri.pdf",
+      "match_rel": "02_Documentos_Governamentais/Personal-Documents/Pereira - 2012 - “Por uma autêntica democracia racial!” os movimentos negros nas escolas e nos currículos de históri.pdf"
+    },
+    {
+      "itemID": 9687,
+      "title": "PDF",
+      "zotero_basename": "syllabus.sciencespo.frcours202510271768.html.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\syllabus.sciencespo.frcours202510271768.html.pdf",
+      "match_rel": "01_Syllabi/syllabus.sciencespo.frcours202510271768.html.pdf"
+    },
+    {
+      "itemID": 9688,
+      "title": "PDF",
+      "zotero_basename": "osipian - 2015 - book review the political economy of european welfare capitalism , by colin hay and daniel w.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Osipian - 2015 - Book Review The Political Economy of European Welfare Capitalism , by Colin Hay and Daniel W.pdf",
+      "match_rel": "00_Meta/Osipian - 2015 - Book Review The Political Economy of European Welfare Capitalism , by Colin Hay and Daniel W.pdf"
+    },
+    {
+      "itemID": 9691,
+      "title": "PDF",
+      "zotero_basename": "freedmanstatistical models and shoe leather.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Freedman - 1991 - Statistical Models and Shoe Leather.pdf",
+      "match_rel": "Freedman - 1991 - Statistical Models and Shoe Leather.pdf"
+    },
+    {
+      "itemID": 9782,
+      "title": "PDF",
+      "zotero_basename": "bicalho et al. - the power of prognosis improving covariate balance tests with outcome information.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Bicalho et al. - The Power of Prognosis Improving Covariate Balance Tests with Outcome Information.pdf",
+      "match_rel": "00_Meta/Bicalho et al. - The Power of Prognosis Improving Covariate Balance Tests with Outcome Information.pdf"
+    },
+    {
+      "itemID": 9783,
+      "title": "PDF",
+      "zotero_basename": "harbison and hanushek - educational performance of the poor.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Harbison and Hanushek - Educational Performance of the Poor.pdf",
+      "match_rel": "00_Meta/Harbison and Hanushek - Educational Performance of the Poor.pdf"
+    },
+    {
+      "itemID": 9805,
+      "title": "Harbison and Hanushek - 1992 - Educational performance of the poor lessons from rural Northeast Brazil 2",
+      "zotero_basename": "harbison and hanushek - 1992 - educational performance of the poor lessons from rural northeast brazil 2.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Harbison and Hanushek - 1992 - Educational performance of the poor lessons from rural Northeast Brazil 2.pdf",
+      "match_rel": "00_Meta/Harbison and Hanushek - 1992 - Educational performance of the poor lessons from rural Northeast Brazil 2.pdf"
+    },
+    {
+      "itemID": 9807,
+      "title": "Harbison and Hanushek - 1992 - Educational performance of the poor lessons from rural Northeast Brazil.pdf",
+      "zotero_basename": "harbison and hanushek - 1992 - educational performance of the poor lessons from rural northeast brazil.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Harbison and Hanushek - 1992 - Educational performance of the poor lessons from rural Northeast Brazil 2.pdf",
+      "match_rel": "00_Meta/Harbison and Hanushek - 1992 - Educational performance of the poor lessons from rural Northeast Brazil 2.pdf"
+    },
+    {
+      "itemID": 9810,
+      "title": "PDF",
+      "zotero_basename": "bicalho et al. - 2025 - the power of prognosis improving covariate balance tests with outcome information.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Bicalho et al. - 2025 - The Power of Prognosis Improving Covariate Balance Tests with Outcome Information.pdf",
+      "match_rel": "00_Meta/Bicalho et al. - 2025 - The Power of Prognosis Improving Covariate Balance Tests with Outcome Information.pdf"
+    },
+    {
+      "itemID": 10052,
+      "title": "PDF",
+      "zotero_basename": "holland - 2017 - forbearance as redistribution the politics of informal welfare in latin america.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Holland - 2017 - Forbearance as Redistribution The Politics of Informal Welfare in Latin America.pdf",
+      "match_rel": "00_Meta/Holland - 2017 - Forbearance as Redistribution The Politics of Informal Welfare in Latin America.pdf"
+    },
+    {
+      "itemID": 10098,
+      "title": "PDF",
+      "zotero_basename": "conley and kellythe standard errors of persistence.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Conley and Kelly - The Standard Errors of Persistence.pdf",
+      "match_rel": "Conley and Kelly - The Standard Errors of Persistence.pdf"
+    },
+    {
+      "itemID": 10312,
+      "title": "PDF",
+      "zotero_basename": "jakubowski et al. - 2016 - the effects of delaying tracking in secondary school evidence from the 1999 education reform in pol.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Jakubowski et al. - 2016 - The effects of delaying tracking in secondary school evidence from the 1999 education reform in Pol.pdf",
+      "match_rel": "00_Meta/Jakubowski et al. - 2016 - The effects of delaying tracking in secondary school evidence from the 1999 education reform in Pol.pdf"
+    },
+    {
+      "itemID": 10517,
+      "title": "Torche - 2011 - Is a College Degree Still the Great Equalizer Intergenerational Mobility across Levels of Schooling in the United States",
+      "zotero_basename": "torche - 2011 - is a college degree still the great equalizer intergenerational mobility across levels of schooling in the united states.pdf",
+      "confidence": "difflib_88",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Torche - 2011 - Is a College Degree Still the Great Equalizer Intergenerational Mobility across Levels of Schooling.pdf",
+      "match_rel": "Torche - 2011 - Is a College Degree Still the Great Equalizer Intergenerational Mobility across Levels of Schooling.pdf"
+    },
+    {
+      "itemID": 10794,
+      "title": "figueiredo-e-limongi-1999",
+      "zotero_basename": "figueiredo-e-limongi-1999.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 10795,
+      "title": "PDF",
+      "zotero_basename": "oliveira - 2025 - a educação pública na luta por igualdade, emancipação e transformação de comunidades marginalizadas.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Oliveira - 2025 - A EDUCAÇÃO PÚBLICA NA LUTA POR IGUALDADE, EMANCIPAÇÃO E TRANSFORMAÇÃO DE COMUNIDADES MARGINALIZADAS.pdf",
+      "match_rel": "00_Meta/Oliveira - 2025 - A EDUCAÇÃO PÚBLICA NA LUTA POR IGUALDADE, EMANCIPAÇÃO E TRANSFORMAÇÃO DE COMUNIDADES MARGINALIZADAS.pdf"
+    },
+    {
+      "itemID": 10817,
+      "title": "figueiredo-e-limongi-1999",
+      "zotero_basename": "figueiredo-e-limongi-1999.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 10861,
+      "title": "Vogt, W. Paul (1995). Book Review of Persistent Inequality- Changing Educational Attainment in Thirteen Countries. Yossi Shavit Blossfeld.",
+      "zotero_basename": "vogt, w. paul (1995). book review of persistent inequality- changing educational attainment in thirteen countries. yossi shavit blossfeld..pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Vogt, W. Paul (1995). Book Review of Persistent Inequality- Changing Educational Attainment in Thirteen Countries. Yossi Shavit Blossfeld..pdf",
+      "match_rel": "00_Meta/Vogt, W. Paul (1995). Book Review of Persistent Inequality- Changing Educational Attainment in Thirteen Countries. Yossi Shavit Blossfeld..pdf"
+    },
+    {
+      "itemID": 11018,
+      "title": "Tarlau - 2019 - Occupying schools, occupying land how the landless workers movement transformed Brazilian education.pdf",
+      "zotero_basename": "tarlau - 2019 - occupying schools, occupying land how the landless workers movement transformed brazilian education.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Tarlau - 2019 - Occupying schools, occupying land how the landless workers movement transformed Brazilian education.pdf",
+      "match_rel": "00_Meta/Tarlau - 2019 - Occupying schools, occupying land how the landless workers movement transformed Brazilian education.pdf"
+    },
+    {
+      "itemID": 11039,
+      "title": "Calderón, A. I., Wandercil, M., & Scudeler, M. A. Tendências e experiências. Os estudos gerais na formação universitária no Brasil.",
+      "zotero_basename": "calderón, a. i., wandercil, m., & scudeler, m. a. tendências e experiências. os estudos gerais na formação universitária no brasil. .pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Calderón, A. I., Wandercil, M., & Scudeler, M. A. Tendências e experiências. Os estudos gerais na formação universitária no Brasil. .pdf",
+      "match_rel": "00_Meta/Calderón, A. I., Wandercil, M., & Scudeler, M. A. Tendências e experiências. Os estudos gerais na formação universitária no Brasil. .pdf"
+    },
+    {
+      "itemID": 11075,
+      "title": "AkerlofJEL2019 (1)",
+      "zotero_basename": "akerlofjel2019 (1).pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 11117,
+      "title": "11680747",
+      "zotero_basename": "11680747.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 11118,
+      "title": "PDF",
+      "zotero_basename": "chetty et al. - 2017 - mobility report cards the role of colleges in intergenerational mobility.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Chetty et al. - 2017 - Mobility Report Cards The Role of Colleges in Intergenerational Mobility.pdf",
+      "match_rel": "00_Meta/Chetty et al. - 2017 - Mobility Report Cards The Role of Colleges in Intergenerational Mobility.pdf"
+    },
+    {
+      "itemID": 11164,
+      "title": "Formacao_Brasil-Caio_Prado",
+      "zotero_basename": "formacao_brasil-caio_prado.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Formacao_Brasil-Caio_Prado.pdf",
+      "match_rel": "00_Meta/Formacao_Brasil-Caio_Prado.pdf"
+    },
+    {
+      "itemID": 11165,
+      "title": "formacao-do-brasil-contemporane-caio-prado-jr_-1",
+      "zotero_basename": "formacao-do-brasil-contemporane-caio-prado-jr_-1.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\formacao-do-brasil-contemporane-caio-prado-jr_-1.pdf",
+      "match_rel": "00_Meta/formacao-do-brasil-contemporane-caio-prado-jr_-1.pdf"
+    },
+    {
+      "itemID": 11186,
+      "title": "PDF",
+      "zotero_basename": "burris - 1990 - chapter 5. struggle, criticism, transformation education in the people's republic of china.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Burris - 1990 - CHAPTER 5. Struggle, Criticism, Transformation Education in the People's Republic of China.pdf",
+      "match_rel": "00_Meta/Burris - 1990 - CHAPTER 5. Struggle, Criticism, Transformation Education in the People's Republic of China.pdf"
+    },
+    {
+      "itemID": 11200,
+      "title": "Jackson - 2022 - How Is It To Be Done Building a Social Science of Radical Reform.pdf",
+      "zotero_basename": "jackson - 2022 - how is it to be done building a social science of radical reform.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Jackson - 2022 - How Is It To Be Done Building a Social Science of Radical Reform.pdf",
+      "match_rel": "00_Meta/Jackson - 2022 - How Is It To Be Done Building a Social Science of Radical Reform.pdf"
+    },
+    {
+      "itemID": 11292,
+      "title": "PDF",
+      "zotero_basename": "oliveira - 2022 - educação superior no brasil e desigualdades (1964 – 2019) entre construções e reformas.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Oliveira - 2022 - Educação Superior no Brasil e desigualdades (1964 – 2019) entre construções e reformas.pdf",
+      "match_rel": "00_Meta/Oliveira - 2022 - Educação Superior no Brasil e desigualdades (1964 – 2019) entre construções e reformas.pdf"
+    },
+    {
+      "itemID": 11385,
+      "title": "PDF",
+      "zotero_basename": "trigueiro - reforma universitária e mudanças no ensino superior no brasil; 2003.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Trigueiro - Reforma universitária e mudanças no ensino superior no Brasil; 2003.pdf",
+      "match_rel": "00_Meta/Trigueiro - Reforma universitária e mudanças no ensino superior no Brasil; 2003.pdf"
+    },
+    {
+      "itemID": 11462,
+      "title": "PDF",
+      "zotero_basename": "schneider - 2024 - routes to reform education politics in latin america 2.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Schneider - 2024 - Routes to Reform Education Politics in Latin America 2.pdf",
+      "match_rel": "00_Meta/Schneider - 2024 - Routes to Reform Education Politics in Latin America 2.pdf"
+    },
+    {
+      "itemID": 11481,
+      "title": "Ebook",
+      "zotero_basename": "porter et al. - 2021 - hbr's 10 must reads on leading digital transformation (with bonus article how apple is organized f.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Porter et al. - 2021 - HBR's 10 Must Reads on Leading Digital Transformation (with bonus article How Apple Is Organized f.epub",
+      "match_rel": "00_Meta/Porter et al. - 2021 - HBR's 10 Must Reads on Leading Digital Transformation (with bonus article How Apple Is Organized f.epub"
+    },
+    {
+      "itemID": 11508,
+      "title": "FEB Aula 6 Sistema Direito Prop Terra EUA Brasil",
+      "zotero_basename": "feb aula 6 sistema direito prop terra eua brasil .pptx",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\FEB Aula 6 Sistema Direito Prop Terra EUA Brasil .pptx",
+      "match_rel": "01_Syllabi/FEB Aula 6 Sistema Direito Prop Terra EUA Brasil .pptx"
+    },
+    {
+      "itemID": 11509,
+      "title": "Como ler Formação Econômica do Brasil 2026",
+      "zotero_basename": "como ler formação econômica do brasil 2026.pptx",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Como ler Formação Econômica do Brasil 2026.pptx",
+      "match_rel": "00_Meta/Como ler Formação Econômica do Brasil 2026.pptx"
+    },
+    {
+      "itemID": 11513,
+      "title": "Ebook",
+      "zotero_basename": "anderson - 2021 - agents of reform child labor and the origins of the welfare state.epub",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Anderson - 2021 - Agents of Reform Child Labor and the Origins of the Welfare State.epub",
+      "match_rel": "00_Meta/Anderson - 2021 - Agents of Reform Child Labor and the Origins of the Welfare State.epub"
+    },
+    {
+      "itemID": 11534,
+      "title": "PDF",
+      "zotero_basename": "barbosa - 2026 - syllabus ebes -  estado de bem-estar debates e contemporâneos.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\Barbosa - 2026 - Syllabus EBES -  Estado de bem-estar debates e contemporâneos.pdf",
+      "match_rel": "01_Syllabi/Barbosa - 2026 - Syllabus EBES -  Estado de bem-estar debates e contemporâneos.pdf"
+    },
+    {
+      "itemID": 11546,
+      "title": "PDF",
+      "zotero_basename": "acemoglu et al. - 2011 - the consequences of radical reform the french revolution.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Acemoglu et al. - 2011 - The Consequences of Radical Reform The French Revolution.pdf",
+      "match_rel": "00_Meta/Acemoglu et al. - 2011 - The Consequences of Radical Reform The French Revolution.pdf"
+    },
+    {
+      "itemID": 11550,
+      "title": "PDF",
+      "zotero_basename": "podolny and page - 1998 - network forms of organization.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Podolny and Page - 1998 - Network Forms of Organization.pdf",
+      "match_rel": "00_Meta/Podolny and Page - 1998 - Network Forms of Organization.pdf"
+    },
+    {
+      "itemID": 11559,
+      "title": "PDF",
+      "zotero_basename": "anonymous reviewer - acceptance for publication.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Anonymous Reviewer - acceptance for publication.pdf",
+      "match_rel": "00_Meta/Anonymous Reviewer - acceptance for publication.pdf"
+    },
+    {
+      "itemID": 11572,
+      "title": "PDF",
+      "zotero_basename": "helena almeida de carvalho - 2002 - reforma universitaria e os mecanismos de incentivo a expansão do ensino superior privado no brasil (.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Helena Almeida De Carvalho - 2002 - Reforma universitaria e os mecanismos de incentivo a expansão do ensino superior privado no Brasil (.pdf",
+      "match_rel": "00_Meta/Helena Almeida De Carvalho - 2002 - Reforma universitaria e os mecanismos de incentivo a expansão do ensino superior privado no Brasil (.pdf"
+    },
+    {
+      "itemID": 11574,
+      "title": "Politicas_publicas_para_acesso_ao_ensino",
+      "zotero_basename": "rita - políticas públicas para acesso ao ensino superior e inclusão no mundo do trabalho – o programa unive.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\Rita - Políticas Públicas para Acesso ao Ensino Superior e Inclusão no Mundo do Trabalho – o Programa Unive.pdf",
+      "match_rel": "01_Syllabi/Rita - Políticas Públicas para Acesso ao Ensino Superior e Inclusão no Mundo do Trabalho – o Programa Unive.pdf"
+    },
+    {
+      "itemID": 11575,
+      "title": "PDF",
+      "zotero_basename": "corbucci et al. - 1968 - evolução da educação superior privada no brasil da reforma universitária de 1968 à década de 2010.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Corbucci et al. - 1968 - EVOLUÇÃO DA EDUCAÇÃO SUPERIOR PRIVADA NO BRASIL DA REFORMA UNIVERSITÁRIA DE 1968 À DÉCADA DE 2010.pdf",
+      "match_rel": "00_Meta/Corbucci et al. - 1968 - EVOLUÇÃO DA EDUCAÇÃO SUPERIOR PRIVADA NO BRASIL DA REFORMA UNIVERSITÁRIA DE 1968 À DÉCADA DE 2010.pdf"
+    },
+    {
+      "itemID": 11577,
+      "title": "PDF",
+      "zotero_basename": "garritzmann - 2026 - from educational conflicts to an educational cleavage the multiple transformations of educational c.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Garritzmann - 2026 - From educational conflicts to an educational cleavage The multiple transformations of educational c.pdf",
+      "match_rel": "00_Meta/Garritzmann - 2026 - From educational conflicts to an educational cleavage The multiple transformations of educational c.pdf"
+    },
+    {
+      "itemID": 11703,
+      "title": "PDF",
+      "zotero_basename": "inep - 2019 - relatório do 2º ciclo de monitoramento das metas do plano nacional de educação - 2018.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Inep - 2019 - Relatório do 2º Ciclo de Monitoramento das Metas do Plano Nacional de Educação - 2018.pdf",
+      "match_rel": "00_Meta/Inep - 2019 - Relatório do 2º Ciclo de Monitoramento das Metas do Plano Nacional de Educação - 2018.pdf"
+    },
+    {
+      "itemID": 11746,
+      "title": "PDF",
+      "zotero_basename": "schulze-cleven and olson - 2017 - worlds of higher education transformed toward varieties of academic capitalism.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Schulze-Cleven and Olson - 2017 - Worlds of higher education transformed toward varieties of academic capitalism.pdf",
+      "match_rel": "00_Meta/Schulze-Cleven and Olson - 2017 - Worlds of higher education transformed toward varieties of academic capitalism.pdf"
+    },
+    {
+      "itemID": 11748,
+      "title": "Chamada_Pública_Pipa_Especializada_11-2026",
+      "zotero_basename": "chamada_pública_pipa_especializada_11-2026.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\02_Documentos_Governamentais\\Chamada_Pública_Pipa_Especializada_11-2026.pdf",
+      "match_rel": "02_Documentos_Governamentais/Chamada_Pública_Pipa_Especializada_11-2026.pdf"
+    },
+    {
+      "itemID": 11753,
+      "title": "PDF",
+      "zotero_basename": "jr and rangel - regulatory simplification, formalization, and local economic activity evidence from brazil.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Jr and Rangel - Regulatory Simplification, Formalization, and Local Economic Activity Evidence from Brazil.pdf",
+      "match_rel": "00_Meta/Jr and Rangel - Regulatory Simplification, Formalization, and Local Economic Activity Evidence from Brazil.pdf"
+    },
+    {
+      "itemID": 11758,
+      "title": "Session 3 MRM",
+      "zotero_basename": "session 3 mrm.pptx",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\Session 3 MRM.pptx",
+      "match_rel": "01_Syllabi/Session 3 MRM.pptx"
+    },
+    {
+      "itemID": 11858,
+      "title": "Hemerijck - 2013 - Three waves of transformative welfare state change.pdf",
+      "zotero_basename": "hemerijck - 2013 - three waves of transformative welfare state change.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Hemerijck - 2013 - Three waves of transformative welfare state change.pdf",
+      "match_rel": "00_Meta/Hemerijck - 2013 - Three waves of transformative welfare state change.pdf"
+    },
+    {
+      "itemID": 11865,
+      "title": "PDF",
+      "zotero_basename": "grisa and schneider - 2014 - três gerações de políticas públicas para a agricultura familiar e formas de interação entre sociedad.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Grisa and Schneider - 2014 - Três gerações de políticas públicas para a agricultura familiar e formas de interação entre sociedad.pdf",
+      "match_rel": "00_Meta/Grisa and Schneider - 2014 - Três gerações de políticas públicas para a agricultura familiar e formas de interação entre sociedad.pdf"
+    },
+    {
+      "itemID": 11900,
+      "title": "mancano-tales.github.io-The Multiple Transformations of Educational Conflicts  Tales Mançano",
+      "zotero_basename": "mancano-tales.github.io-the multiple transformations of educational conflicts  tales mançano.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\mancano-tales.github.io-The Multiple Transformations of Educational Conflicts  Tales Mançano.pdf",
+      "match_rel": "00_Meta/mancano-tales.github.io-The Multiple Transformations of Educational Conflicts  Tales Mançano.pdf"
+    },
+    {
+      "itemID": 11921,
+      "title": "2025_DouglasAlexandreSantosSilva_VCor",
+      "zotero_basename": "silva - universidade de são paulo faculdade de filosofia, letras e ciências humanas programa de pós-graduaçã.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\01_Syllabi\\Silva - UNIVERSIDADE DE SÃO PAULO FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS PROGRAMA DE PÓS-GRADUAÇÃ.pdf",
+      "match_rel": "01_Syllabi/Silva - UNIVERSIDADE DE SÃO PAULO FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS PROGRAMA DE PÓS-GRADUAÇÃ.pdf"
+    },
+    {
+      "itemID": 11924,
+      "title": "CV- HERMANO BARROS TERCIUS_redacted (1) (1)",
+      "zotero_basename": "cv- hermano barros tercius_redacted (1) (1).pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 11976,
+      "title": "1688-4981-rcs-37-55-e212",
+      "zotero_basename": "fernandes et al. - 2024 - acaparamiento de la tierra, del viento y del sol la formación de un nuevo régimen.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Fernandes et al. - 2024 - Acaparamiento de la tierra, del viento y del sol La formación de un nuevo régimen.pdf",
+      "match_rel": "00_Meta/Fernandes et al. - 2024 - Acaparamiento de la tierra, del viento y del sol La formación de un nuevo régimen.pdf"
+    },
+    {
+      "itemID": 11977,
+      "title": "PDF",
+      "zotero_basename": "fairfield - 2010 - business power and tax reform taxing income and profits in chile and argentina.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Fairfield - 2010 - Business Power and Tax Reform Taxing Income and Profits in Chile and Argentina.pdf",
+      "match_rel": "00_Meta/Fairfield - 2010 - Business Power and Tax Reform Taxing Income and Profits in Chile and Argentina.pdf"
+    },
+    {
+      "itemID": 12080,
+      "title": "Main Paper",
+      "zotero_basename": "andersen - 2024 - impartial administration and peaceful agrarian reform the foundations for democracy in scandinavia.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Andersen - 2024 - Impartial Administration and Peaceful Agrarian Reform The Foundations for Democracy in Scandinavia.pdf",
+      "match_rel": "00_Meta/Andersen - 2024 - Impartial Administration and Peaceful Agrarian Reform The Foundations for Democracy in Scandinavia.pdf"
+    },
+    {
+      "itemID": 12084,
+      "title": "PDF",
+      "zotero_basename": "fairfield - 2015 - structural power in comparative political economy perspectives from policy formulation in latin ame.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Fairfield - 2015 - Structural power in comparative political economy perspectives from policy formulation in Latin Ame.pdf",
+      "match_rel": "00_Meta/Fairfield - 2015 - Structural power in comparative political economy perspectives from policy formulation in Latin Ame.pdf"
+    },
+    {
+      "itemID": 12086,
+      "title": "PDF",
+      "zotero_basename": "american j political sci - 2023 - eggers - placebo tests for causal inference.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 12089,
+      "title": "tunon__cv",
+      "zotero_basename": "tunon__cv.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 12098,
+      "title": "PDF",
+      "zotero_basename": "andersen - 2023 - replication data for impartial administration and peaceful agrarian reform the foundations for dem.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Andersen - 2023 - Replication Data for Impartial Administration and Peaceful Agrarian Reform The Foundations for Dem.pdf",
+      "match_rel": "00_Meta/Andersen - 2023 - Replication Data for Impartial Administration and Peaceful Agrarian Reform The Foundations for Dem.pdf"
+    },
+    {
+      "itemID": 12171,
+      "title": "PDF",
+      "zotero_basename": "sguissardi - 2008 - modelo de expansão da educação superior no brasil predomínio privadomercantil e desafios para a re.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Sguissardi - 2008 - Modelo de expansão da educação superior no Brasil predomínio privadomercantil e desafios para a re.pdf",
+      "match_rel": "00_Meta/Sguissardi - 2008 - Modelo de expansão da educação superior no Brasil predomínio privadomercantil e desafios para a re.pdf"
+    },
+    {
+      "itemID": 12191,
+      "title": "PDF",
+      "zotero_basename": "fairfield and charman - 2015 - applying formal bayesian analysis to qualitative case research an empirical example, implications,.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Fairfield and Charman - 2015 - Applying Formal Bayesian Analysis to Qualitative Case Research An Empirical Example, Implications,.pdf",
+      "match_rel": "00_Meta/Fairfield and Charman - 2015 - Applying Formal Bayesian Analysis to Qualitative Case Research An Empirical Example, Implications,.pdf"
+    },
+    {
+      "itemID": 12215,
+      "title": "PDF",
+      "zotero_basename": "who owns education  cleavage structures in the partisan competition over educational expansion.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 12224,
+      "title": "PDF",
+      "zotero_basename": "andersen - 2024 - impartial administration and peaceful agrarian reform the foundations for democracy in scandinavia 2.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Andersen - 2024 - Impartial Administration and Peaceful Agrarian Reform The Foundations for Democracy in Scandinavia 2.pdf",
+      "match_rel": "00_Meta/Andersen - 2024 - Impartial Administration and Peaceful Agrarian Reform The Foundations for Democracy in Scandinavia 2.pdf"
+    },
+    {
+      "itemID": 12273,
+      "title": "Beyond_Social_Democracy",
+      "zotero_basename": "häusermann and kitschelt - 2024 - beyond social democracy the transformation of the left in emerging knowledge societies.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Häusermann and Kitschelt - 2024 - Beyond Social Democracy The Transformation of the Left in Emerging Knowledge Societies.pdf",
+      "match_rel": "00_Meta/Häusermann and Kitschelt - 2024 - Beyond Social Democracy The Transformation of the Left in Emerging Knowledge Societies.pdf"
+    },
+    {
+      "itemID": 12277,
+      "title": "PDF",
+      "zotero_basename": "choi et al. - 2026 - ‘reformism’ and the liberal culture global trends in education reform, 1970–2019.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Choi et al. - 2026 - ‘Reformism’ and the liberal culture global trends in education reform, 1970–2019.pdf",
+      "match_rel": "00_Meta/Choi et al. - 2026 - ‘Reformism’ and the liberal culture global trends in education reform, 1970–2019.pdf"
+    },
+    {
+      "itemID": 12411,
+      "title": "PDF",
+      "zotero_basename": "brasil - 1991 - decreto nº 49, de 5 de março de 1991.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\02_Documentos_Governamentais\\Brasil - 1991 - Decreto nº 49, de 5 de Março de 1991.pdf",
+      "match_rel": "02_Documentos_Governamentais/Brasil - 1991 - Decreto nº 49, de 5 de Março de 1991.pdf"
+    },
+    {
+      "itemID": 12497,
+      "title": "Artigo+8+vol+20_n2_PT",
+      "zotero_basename": "artigo+8+vol+20_n2_pt.pdf",
+      "confidence": null,
+      "match_abs": null,
+      "match_rel": null
+    },
+    {
+      "itemID": 12506,
+      "title": "Wood Junior and Trivelli - 2022 - A transformação do ensino superior no Brasil um estudo de caso sobre a criação de um grande grupo e.pdf",
+      "zotero_basename": "wood junior and trivelli - 2022 - a transformação do ensino superior no brasil um estudo de caso sobre a criação de um grande grupo e.pdf",
+      "confidence": "exact",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\00_Meta\\Wood Junior and Trivelli - 2022 - A transformação do ensino superior no Brasil um estudo de caso sobre a criação de um grande grupo e.pdf",
+      "match_rel": "00_Meta/Wood Junior and Trivelli - 2022 - A transformação do ensino superior no Brasil um estudo de caso sobre a criação de um grande grupo e.pdf"
+    },
+    {
+      "itemID": 12514,
+      "title": "Marquese - 2013 - Estados Unidos, Segunda Escravidão e a Economia Cafeeira do Império do Brasil 1.pdf",
+      "zotero_basename": "marquese - 2013 - estados unidos, segunda escravidão e a economia cafeeira do império do brasil 1.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Marquese - 2013 - Estados Unidos, Segunda Escravidão e a Economia Cafeeira do Império do Brasil.pdf",
+      "match_rel": "Marquese - 2013 - Estados Unidos, Segunda Escravidão e a Economia Cafeeira do Império do Brasil.pdf"
+    },
+    {
+      "itemID": 12515,
+      "title": "Marquese - 2013 - Estados Unidos, Segunda Escravidão e a Economia Cafeeira do Império do Brasil 2.pdf",
+      "zotero_basename": "marquese - 2013 - estados unidos, segunda escravidão e a economia cafeeira do império do brasil 2.pdf",
+      "confidence": "normalized",
+      "match_abs": "G:\\My Drive\\[[1]] Kami Uploads\\Marquese - 2013 - Estados Unidos, Segunda Escravidão e a Economia Cafeeira do Império do Brasil.pdf",
+      "match_rel": "Marquese - 2013 - Estados Unidos, Segunda Escravidão e a Economia Cafeeira do Império do Brasil.pdf"
+    }
+  ]
+}

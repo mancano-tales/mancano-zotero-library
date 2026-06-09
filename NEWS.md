@@ -6,6 +6,141 @@ Formato: `YYYY-MM-DD HH:MM` (Brasília) — descrição → resultado/diff
 
 ---
 
+## 2026-06-06 — Fase 6.2a executada (dedup completo)
+
+### 2026-06-06 ~09:30 — Move executado com sucesso
+
+- Script M `M_kami_dedup_repoint.js` rodado no Zotero pelo user: **31/31 ✓**, 0 falhas. Todos os items repointados pro canonical.
+- `python kami_dedup_execute.py --execute --date 2026-06-05` rodado:
+  - **402 arquivos movidos** para `G:\My Drive\[[1]] Kami Uploads\_TRASH_dedup_2026-06-05\`
+  - **0 erros**, 0 skips (missing src, dst exists, canonical conflict — todos zero)
+  - **1,28 GB realocados** (cálculo planejado era 1,37 GB; diferença por cache do Google Drive)
+- Manifest gerado em `_TRASH_dedup_2026-06-05\_manifest.{csv,md}` (177 KB CSV, 80 KB MD): mapeamento `dst_filename ↔ src_path ↔ canonical` pra revisão manual.
+- Pasta Kami Uploads agora: **13,66 GB total** (mesmo número porque arquivos foram movidos pra subpasta, não deletados — ainda).
+- **Fix do dia 06/06**: `kami_dedup_execute.py` ganhou flag `--date YYYY-MM-DD` + auto-fallback pro plano mais recente, pra evitar problema quando vira a noite entre o plano e a execução.
+
+### 2026-06-06 ~09:25 — Bug fix kami_dedup_execute.py
+
+A virada de data (05→06 entre o plano e a execução) fez o script procurar arquivo `2026-06-06_kami_dedup_plan.json` que não existia. Refatorei pra:
+1. Aceitar `--date 2026-06-05` explícito
+2. Fallback automático pro plano mais recente em `diagnostics/`
+
+---
+
+## 2026-06-05 — Fase 6 iniciada: Sincronização Kami Uploads ↔ Zotero
+
+### 2026-06-05 ~16:30 — Plano de dedup pronto + dry-run OK
+
+- `python/kami_dedup_plan.py` re-hashou os 4.368 arquivos e gerou plano:
+  - **361 grupos de hash com 2+ cópias**
+  - 212 grupos com 1+ link Zotero (canonical = a linkada)
+  - **31 grupos com 2+ links Zotero** (precisam repoint — Script M gerado)
+  - 149 grupos sem nenhum link (canonical = na raiz com nome mais curto)
+  - **402 arquivos a mover para `_TRASH_dedup_2026-06-05\`** (1,37 GB)
+- Destino: `G:\My Drive\[[1]] Kami Uploads\_TRASH_dedup_2026-06-05\` com nome `<canonical>__dup_N__<original_short>.ext` (decisão do user 06/05 pra facilitar revisão manual)
+- `scripts/M_kami_dedup_repoint.js` gerado: 31 items Zotero a repointar pro canonical ANTES do move.
+- `python/kami_dedup_execute.py` escrito com `--dry-run` / `--execute`. Dry-run rodado: **402 movimentos planejados, 0 erros, 0 conflitos**.
+- Outputs:
+  - `diagnostics/2026-06-05_kami_dedup_plan.{md,json}` (plano completo)
+  - `diagnostics/2026-06-05_kami_dedup_execlog.md` (log do dry-run)
+  - `scripts/M_kami_dedup_repoint.js` (31 items pra repoint)
+
+**Próximo passo**: rodar Script M no Zotero → confirmar 31 ✓ → executar `kami_dedup_execute.py --execute`.
+
+### 2026-06-05 ~16:00 — Análise de subpastas
+
+- `python/kami_subfolder_analysis.py` confirma que `00_Meta\` e `_Fix\` **não são mirrors** da raiz (têm conteúdo único com nomes diferentes; sobreposição é só por hash).
+- Subpastas com mais arquivos exclusivos:
+  - `_Fix\` (430 files, 1.39 GB)
+  - `00_Meta\` (333 files, 800 MB)
+  - `01_Syllabi\` (189 files, 512 MB)
+- Detectadas **categorias duplicadas** que serão consolidadas em 6.2c:
+  - `01_Syllabi\` + `Syllabuses\` → `Syllabi/`
+  - `_GovDocuments\` + `02_Documentos_Governamentais\` → `Documents/` (ou novo `GovDocs/`)
+  - `Personal-Documents\` → `Documents/`
+- `_Emp\` vazia — pode ser deletada quando for hora.
+- Output: `diagnostics/2026-06-05_kami_subfolders.json`
+
+### 2026-06-05 ~15:40 — Auditoria Fase 6.0 completa
+
+- `python/kami_audit.py` rodado: cruzou os 4.705 arquivos da pasta Kami Uploads (13,7 GB) com os 2.410 anexos do Zotero (read-only no `.bak`).
+- Resultado:
+  - ✅ Linked OK: **1.632**
+  - 💥 Linked broken: **239** (Zotero aponta, arquivo sumiu — provavelmente em subpasta)
+  - 🟡 Órfãos físicos: **2.937** (9,3 GB)
+  - 🔁 Grupos hash dup: **555** (versão inicial; refinada depois pra 361 com escopo mais estrito)
+- Distribuição dos órfãos:
+  - academic_pdf: 2.652 (8,04 GB)
+  - academic_epub: 126 (0,51 GB)
+  - cvs: 36, presentations: 24, syllabi: 6, etc.
+- Outputs: `diagnostics/2026-06-05_kami_audit.{md,json}`
+
+### 2026-06-05 ~15:30 — Quick wins (Fase 6.1)
+
+- 20 lock files `.~lock.*#` (LibreOffice) deletados da raiz do Kami Uploads.
+- `.obsidian/` preservado (vault do user).
+
+### 2026-06-05 ~15:00 — Documentação Fase 6
+
+- `PLAN.md` atualizado com Fase 6 completa (subfases 6.0–6.5) e preferências do user:
+  - **Flat predominante**; subdivisão só por tipo: `Syllabi/`, `CVs/`, `Documents/`, `Presentations/`, `_misc/`.
+  - Textos acadêmicos (PDF/EPUB) ficam na raiz.
+  - `.obsidian/` preservado.
+- Scripts Python da Fase 6 em `python/`: `kami_audit.py`, `kami_subfolder_analysis.py`, `kami_dedup_plan.py`, `kami_dedup_execute.py`.
+
+---
+
+## 2026-05-30 (tarde) — Resolução da coleção "Problematic - No author" (Scripts J/K/L)
+
+### 2026-05-30 ~19:00 — Triagem em 3 baldes + execução dos 3 scripts
+
+Endereçou simultaneamente as duas anomalias pendentes da Fase 0.5: os **3 itens sem título** e os **112 itens da coleção `Problematic - No author`** (114 itens únicos, 3 ∩ 1).
+
+**Pipeline novo** (em `python/`):
+1. `inspect_problematic.py` → dossier completo (`diagnostics/2026-05-30_problematic_inspect.md`, 1063 linhas, 75 KB)
+2. `classify_problematic.py` → 4 JSONs (`diagnostics/2026-05-30_balde_{A,B,C,skip}.json`) + `diagnostics/2026-05-30_problematic_triagem.md`
+3. `generate_js_scripts.py` → produz `scripts/J_problematic_enrich.js`, `K_problematic_trash.js`, `L_problematic_inst_creator.js`
+
+**Classificação final dos 114:**
+
+| Balde | n | Critério | Script |
+|---|--:|---|---|
+| SKIP | 2 | `case`/`statute` que usam `caseName`/`nameOfAct` (49=Portaria GR USP, 282=Lei 13.267) — não é bug | — |
+| **A — Enrich** | **28** | tem DOI ou ISBN | `J_problematic_enrich.js` |
+| **B — Lixo** | **7** | webpage em domínio de baixa qualidade (blogs ABNT/TCC: mettzer, viacarreira, tecnoblog, fastformat, projetoacademico, normastecnicas) | `K_problematic_trash.js` |
+| **C — Anônimo legítimo** | **77** | webpage/blog/vídeo sem autor; URL identifica órgão emissor | `L_problematic_inst_creator.js` |
+
+**Mapa domínio → creator** (`python/classify_problematic.py`, dicionário `DOMAIN_CREATOR`):
+- Imprensa: Folha (11), Valor (10), G1 (2), IstoÉ (2), Exame (1), Reuters Brasil (1), Marie Claire (1), Jornal de Brasília (1), JOTA (1), Carta Campinas (1), Repórter Brasil (1), Sul21 (1), UOL Economia (1)
+- USP: Jornal da USP (2), LabCidade FAU-USP (1), FO-USP (1), ADUSP (1), McMaster (1)
+- Gov: Senado Federal (2), Fundo Social SP (1)
+- Civis: UNE (3), UBES (3), Levante (1), F. Perseu Abramo (1), WRI Brasil (1), Change.org (1), Politize! (1), O Cafezinho (1), Jornalistas Livres (1), O Joio e o Trigo (1), Monitor das Doações (1), Racismo Ambiental (1)
+- Wikis: Wikipédia (2), Wikipedia (2)
+- Vídeo: YouTube (9)
+- Blog: Sociófilo (1), Political Anthropology (1)
+- 1 marcado `needs_review` (id 10172, `NovosEstudos_novembro_2014_FINAL.indb` — provavelmente Novos Estudos CEBRAP nov/2014)
+
+**Decisão pra anônimos legítimos**: criar creator com `fieldMode: 1` (single-field "name only" — CSL trata como corporate author). Documentado em `CONVENTIONS.md §2.1`.
+
+**Resultado real da execução** (user rodou via Run JavaScript, Zotero aberto):
+- **Script J** (28 itens): ✓ 11 enriquecidos, 0 falhas, 17 sem mudança
+  - Enriqueceram: 151 (publisher), 1054 (numPages+creators), 5045 (creators), 6867/7021/7038/7039 (publicationTitle), 8434 (place+numPages+abstract+creator), 9417 (publisher), 11644 (publisher), 11886 (title)
+  - "Sem mudança" = OpenLibrary não tinha dados para ISBNs brasileiros pequenos (esperado; fallback futuro: Google Books ou input manual)
+- **Script K** (7 itens): ✓ 7 movidos para lixeira (reversível 30 dias)
+- **Script L** (77 itens): ✓ 74 atribuídos, 2 pulados (9291, 9298 já tinham creator), 1 pra revisão manual (10172)
+
+**Diff vs. baseline 30/05 manhã**: ~92 itens resolvidos do total de 114 (81%).
+- Pendente manual: 1 item (10172, revisar Retrieve Metadata)
+- Pendente sem mudança no Balde A: 17 itens (livros com ISBN BR não encontrados no OpenLibrary)
+
+**Próximo passo concreto**: rodar `python/diagnose_v2.py` pra confirmar o novo "sem autor" (esperado ~245 - 74 = ~171). Depois esvaziar a coleção `Problematic - No author` (snippet sugerido no rodapé do balde A).
+
+### 2026-05-30 ~18:30 — Confirmação de pendência
+
+User confirmou que o Zotero estava aberto e funcionando bem (vs. tarde 30/05 manhã quando havia journal pendurado de uma sessão anterior). Performance principal vinculada ao Better BibTeX com 3 auto-exports de biblioteca-inteira configurados em `prefs.js` (a otimizar em fase futura). Snapshot novo registrado em `BACKUPS.md`.
+
+---
+
 ## 2026-05-30 — Formalização do projeto
 
 ### 2026-05-30 11:55 — Diagnóstico fresco rodado com sucesso
