@@ -1,5 +1,8 @@
 # NEWS — Log cronológico
 
+<!-- NEWS-FRAGMENTS:BEGIN -->
+<!-- NEWS-FRAGMENTS:END -->
+
 Histórico de tudo que foi feito no projeto. Entradas mais recentes no topo.
 
 Formato: `YYYY-MM-DD HH:MM` (Brasília) — descrição → resultado/diff

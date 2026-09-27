@@ -42,7 +42,7 @@ Em **10/05/2026** executamos 8 scripts JS (A–H) que reorganizaram a estrutura:
 | `README.md` | Você está aqui. Visão geral + por que. |
 | `VISION.md` | Onde queremos chegar: estado final, metas quantitativas, marcos de sucesso. |
 | `PLAN.md` | Plano vivo: o que falta, em que ordem, por quê. |
-| `NEWS.md` | Log cronológico com timestamp de cada ação executada. |
+| `NEWS.md` | Histórico cronológico: entradas novas são consolidadas de fragmentos; o commit de origem guarda o timestamp exato. |
 | `CONVENTIONS.md` | Padrões: nomenclatura "data-primeiro", vocabulário de tags, regras de classificação. |
 | `BACKUPS.md` | Inventário de snapshots SQLite + procedimento de restauração. |
 | `scripts/` | Scripts JS pra rodar no Zotero (`Tools → Developer → Run JavaScript`). |
@@ -54,7 +54,7 @@ Em **10/05/2026** executamos 8 scripts JS (A–H) que reorganizaram a estrutura:
 1. Sempre começar lendo `PLAN.md` pra ver o próximo passo
 2. Antes de qualquer operação destrutiva: snapshot pra `diagnostics/` (ver `BACKUPS.md`)
 3. Rodar scripts JS via Zotero (`Tools → Developer → Run JavaScript`), colando o conteúdo do arquivo
-4. Logar tudo no `NEWS.md` com timestamp + comando + resultado
+4. Para registrar uma ação ou mudança, crie um fragmento NEWS exclusivo e co-commite com a atualização do repositório. Inclua comando e resultado no corpo quando forem relevantes; a região gerada de `NEWS.md` não deve ser editada à mão. O dia aparece no NEWS e o timestamp exato do commit pode ser consultado com `python tools/news_db.py`.
 5. Atualizar `PLAN.md` ao fechar fases
 
 ## Convenções de versão
